@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Learning Objectives
 permalink: objectives.html
 ---
