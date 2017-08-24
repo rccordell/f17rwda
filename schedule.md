@@ -34,7 +34,7 @@ Read:
 
 -----
 
-## Thursday, September 14: Lab #1—What is a Book, Anyway?  
+## Thursday, September 14: Lab #1—Markup/Markdown 
 
 ## Monday, September 18: Past Futures
 
