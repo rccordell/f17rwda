@@ -1,4 +1,10 @@
-# Course Objectives
+---
+layout: page
+title: Learning Objectives
+permalink: objectives.html
+---
+
+# Learning Objectives
 
 By the end of this course, you will:
 
