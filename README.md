@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+---
+title: README
+---
 
-You can use the [editor on GitHub](https://github.com/rccordell/f17rwda/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This seminar explores how we tell stories and make arguments in the age of the internet and "big data." We will investigate literary works from a variety of eras and genres—including fiction, poetry, film, and video games—to see how writers and readers have grappled with the implications of new reading and informational technologies throughout history. We will also study the ways writers have produced new kinds of writing in response to such changes. We will analyze historical interplays among technology, new media, culture, and literature in order to better understand the social and literary upheavals of our own technological moment. Students will develop skills for making sense of textual data, as well as for writing *about data* and writing *with data* through a variety of media. Students will weave together code and prose in multimodal, online publications; analyze texts using computational tools; and develop projects, such as literary “bots,” that explore the boundaries between digital technology and creative expression.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rccordell/f17rwda/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+***Note:*** "Reading and Writing in the Digital Age" presumes no prior experience with computational methods and thus is well suited for students interested a “hands-on” introduction to the medium that underlies much of early-twenty-first-century life. The class offers all students an opportunity to develop their abilities analyzing, interpreting, and creating texts in a range of media through a blending of traditional and computational methods.
