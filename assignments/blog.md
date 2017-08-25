@@ -1,3 +1,8 @@
+---
+title: Blogging
+permalink: assignments/blog.html
+---
+
 Throughout the term, we will engage with the ideas of the course through [public writing on your blogs](http://ryan.cordells.us/su14tlnm/assignments/building-your-own-website/ "I. Building Your Own Website"), which I will aggregate on this course blog. I ask you to blog for a number of reasons:
 
 *   All writing—even academic writing—is being reshaped by online modes of publication. Many academics maintain personal research blogs in which they try out their ideas and get feedback before developing articles or even books. Outside of academia, public, online writing plays an increasing and essential role in many fields. I believe its essential for modern college students to develop skill crafting an online writing persona and I want to foster that development.

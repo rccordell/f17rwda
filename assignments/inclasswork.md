@@ -1,3 +1,8 @@
+---
+title: In Class Work
+permalink: assignments/inclass.html
+---
+
 ## Assignment Overview:
 
 + Includes written reflections, quizzes, and/or group work
@@ -24,3 +29,5 @@ This course relies on active, engaged participation in class activities and disc
 3. Reading quizzes
 
     I prefer not to resort to reading quizzes, which test basic comprehension rather than synthesis and analysis. However, if it becomes clear that significant portions of the class are not completing the readings (which will be obvious by the resultant lulls in conversation) then I reserve the right to begin quizzing. Reading quizzes are intended to reward careful reading, not to test your comprehension of obscure facts from our texts. If you read the assigned texts attentively—if you read the assigned texts attentively—you should do well on the quizzes. Each quiz will have six questions; if you correctly answer five of them you will receive full credit, while all six garners extra credit.
+    
+    
