@@ -1,6 +1,6 @@
 ---
 title: Course Policies
-permalink: policies.html
+permalink: "/policies/"
 ---
 
 # Shadow Syllabus
