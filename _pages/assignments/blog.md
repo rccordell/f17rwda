@@ -1,6 +1,6 @@
 ---
 title: Blogging
-permalink: "/assignments/blog/"
+permalink: /assignments/blog.html
 ---
 
 Throughout the term, we will engage with the ideas of the course through [public writing on your blogs](http://ryan.cordells.us/su14tlnm/assignments/building-your-own-website/ "I. Building Your Own Website"), which I will aggregate on this course blog. I ask you to blog for a number of reasons:

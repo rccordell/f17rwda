@@ -1,6 +1,6 @@
 ---
 title: Building a Website
-permalink: "/assignments/website/"
+permalink: /assignments/website.html
 ---
 
 This assignment adapted (barely) from [the sterling model developed by Brian Croxall](http://www.briancroxall.net/s14dh/assignments/building-your-own-website/).

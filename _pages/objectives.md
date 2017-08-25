@@ -1,6 +1,6 @@
 ---
 title: Learning Objectives
-permalink: "/objectives/"
+permalink: /objectives.html
 ---
 
 # Learning Objectives

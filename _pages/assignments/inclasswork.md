@@ -1,6 +1,6 @@
 ---
 title: In Class Work
-permalink: "/assignments/inclass/"
+permalink: /assignments/inclass.html
 ---
 
 ## Assignment Overview:
