@@ -1,6 +1,6 @@
 ---
 title: Unessay
-permalink: /assignments/unessay.html
+permalink: /assignments/unessay/
 ---
 
 ## Assignment Overview:

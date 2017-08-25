@@ -1,6 +1,6 @@
 ---
 title: No Digital Day
-permalink: /assignments/nodigitalday.html
+permalink: /assignments/nodigital/
 ---
 
 This assignment isn't due until June 11, but it requires a bit of planning and so I wanted it up from the beginning of class. The assignment is lightly adapted from Prof. Amanda Gailey's "No Digital Day" assignment for her ["Being Human in a Digital Age"](http://segonku.unl.edu/beinghuman/) course at the University of Nebraska—Lincoln.

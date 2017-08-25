@@ -1,6 +1,6 @@
 ---
 title: Schedule of Readings
-permalink: /schedule.html
+permalink: /schedule/
 ---
 
 *Note: this will be an unusually busy travel semester for me. I've tried to indicate on the schedule when I will be traveling. Not all of these trips will affect class itself. I've tried to minimize cancellations and develop alternative activities for those days I cannot avoid missing. However, traveling might affect my responsiveness to email and so forth. I will strive to answer emails in a timely fashion, but if you do write while I am away from town please allow an extra half day or so before worrying about a lack of response.*
