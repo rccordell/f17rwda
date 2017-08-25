@@ -1,4 +1,5 @@
 ---
+layout: page
 title: Schedule of Readings and Assignments
 permalink: schedule.html
 ---
