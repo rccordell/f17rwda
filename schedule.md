@@ -1,5 +1,5 @@
 ---
-title: Schedule of Readings
+title: Schedule of Readings and Assignments
 permalink: /schedule/
 ---
 

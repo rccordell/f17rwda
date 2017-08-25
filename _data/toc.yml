@@ -1,0 +1,23 @@
+toc:
+  - title: Course Outline
+    subfolderitems:
+      - page: Course Description
+        url: /
+      - page: Objectives
+        url: /objectives/
+      - page: Policies
+        url: /policies/
+      - page: Schedule
+        url: /schedule/
+  - title: Assignments
+    subfolderitems:
+      - page: In Class Work
+        url: /assignments/inclass/
+      - page: Create a Website
+        url: /assignments/website/
+      - page: Blogging
+        url: /assignments/blogging/
+      - page: No Digital Day
+        url: /assignments/nodigital/
+      - page: Unessays
+        url: /assignments/unessay/
