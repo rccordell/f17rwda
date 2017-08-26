@@ -210,6 +210,7 @@ Read:
 Read:
 
 + Robert Darnton, ["The True History of Fake News"](http://www.nybooks.com/daily/2017/02/13/the-true-history-of-fake-news/)
++ Tom Standage, ["The True History of Fake News"](https://www.1843magazine.com/technology/rewind/the-true-history-of-fake-news)
 + ["Yellow Journalism: The 'Fake News' of the 19th Century"](https://publicdomainreview.org/collections/yellow-journalism-the-fake-news-of-the-19th-century/)
 
 -----
