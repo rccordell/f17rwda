@@ -209,7 +209,8 @@ Read:
 
 Read:
 
-+ TBD
++ Robert Darnton, ["The True History of Fake News"](http://www.nybooks.com/daily/2017/02/13/the-true-history-of-fake-news/)
++ ["Yellow Journalism: The 'Fake News' of the 19th Century"](https://publicdomainreview.org/collections/yellow-journalism-the-fake-news-of-the-19th-century/)
 
 -----
 
@@ -224,7 +225,7 @@ Read:
 + Baratunde Thurston, ["#Unplug: Baratunde Thurston Left The Internet For 25 Days, And You Should Too"](http://www.fastcompany.com/3012521/unplug/baratunde-thurston-leaves-the-internet) 
 + Ian Bogost, ["Hyperemployment, or the Exhausting Work of the Technology User"](http://www.theatlantic.com/technology/archive/2013/11/hyperemployment-or-the-exhausting-work-of-the-technology-user/281149/)
 
-## Thursday, November 9: Lab #6—Living in Airplane Mode
+## Thursday, November 9: Lab #6—Close Reading
 
 ## Monday, November 13: AI
 
