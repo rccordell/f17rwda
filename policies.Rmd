@@ -1,6 +1,11 @@
 ---
-title: Course Policies
-permalink: /policies/
+title: "Course Policies and Expectations"
+output: 
+  html_document:
+    toc: true
+    toc_depth: 2
+    toc_float: true
+    theme: readable
 ---
 
 # Shadow Syllabus
@@ -57,7 +62,6 @@ IO days are intended to help you manage the inevitable stresses of your individu
 ## Attendance and Participation Bonus
 
 At the end of the semester, for an allowed absence and/or IO day you did not use, I will drop your lowest in-class work grade. So if you attended all sessions prepared and did not require an IO day, I would drop your two lowest in-class work grades from my final grade calculations. I will also drop one low grade to acknowledge exceptional engagement and participation through the semester.
-
 
 # Digital Etiquette
 
