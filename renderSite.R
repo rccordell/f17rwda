@@ -1,6 +1,6 @@
 # This script builds on Aleszu Bajak's excellent [tutorial on building a course website using R Markdown and Github pages](http://www.storybench.org/convert-google-doc-rmarkdown-publish-github-pages/). I was excited about the concept but wanted to automate a few of the production steps: namely generating the HTML files for the site from the RMD pages (which Aleszu describes doing one-by-one) and generating the site navigation menu, which Aleszu handcodes in the `_site.yml` file. This script should automate both processes, though it may have some quirks unique to my setup that you'd want to tweak to fit your own. It's likely more loquacious than necessary as well, so feel free to condense as you can. Ideally, each time you make updates to your RMD files you can run this script to generate updated HTML pages and a new `_site.yml`. Then commit changes to Github and you're up and running!
 
-# Once you've got everything configured for your own site below, you should be able to run `source('renderSite.R')` in your console to generate updated HTML files and an updated menu.
+# Once you've got everything configured for your own site below, you should be able to run `source('renderSite.R')` in your console to generate updated HTML files and an updated menu. You could probably add some Github code to the very end to build the commit into the script. 
 
 
 #list all the RMD files in your site's directory
