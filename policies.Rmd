@@ -8,15 +8,25 @@ output:
     theme: journal
 ---
 
+-----
+
 # Shadow Syllabus
 
 Really, all I *want* to write here can be found in Sonya Huber's [Shadow Syllabus](https://sonyahuber.com/2014/08/20/shadow-syllabus/amp/). There is a lot of truth in this list for your college careers and beyond. Read it and believe it.
 
+-----
+
 # Required Texts
  
-Most of the text we will use in this class are freely available online. There is just one you'll need to buy. It can be found at the Northeastern University Bookstore or purchased from any bookstore of your choosing, IRL or online.
+Most of the texts we will use in this class are freely available online. There are just a few you'll need to buy (depending on what you choose as your second game in our final unit on "Play"). *Ready Player One* can be found at the Northeastern University Bookstore or purchased from any bookstore of your choosing, IRL or online. How you play *Portal* will depend a bit on whether you need to play on your computer, or if you have a console for gaming. It doesn't matter to me where you play it, but find the game as soon as possible. If you have trouble finding it, let me know and I'll help out.
 
-+ Ernest Kline, [*Ready Player One*](https://www.amazon.com/Ready-Player-One-Ernest-Cline/dp/0307887448/) 
++ Ernest Kline, [*Ready Player One*](https://www.amazon.com/Ready-Player-One-Ernest-Cline/dp/0307887448/)
++ Valve, *Portal*, for Windows or OS X [through Steam](http://store.steampowered.com/app/400/Portal/)
+
+[![Scene from *Portal*](https://c2.staticflickr.com/4/3306/3476048144_48f8a76855_z.jpg)](https://flic.kr/p/6iaE1y)
+
+*["Portal" by Sir Mildred Pierce](https://flic.kr/p/6iaE1y)*
+
  
 # Communication
 
@@ -47,6 +57,10 @@ Maintaining an active class conversation requires that the class be present, bot
 If you fail to meet these requirements, I will consider you mentally absent, though you may be physically present. 
 
 **Please note**: I make no distinction between excused and unexcused absences, so use your allotted absences wisely. You may not miss two classes early in the semester and then petition for additional excused absences afterward. When you must miss class, it is your responsibility to find out what you missed and to make up any pertinent assignments. You may not make up quizzes or in-class work. If you take one of your excused absences, I simply will not grade any in-class work you missed. If you miss a lab due to an excused absence you should attempt to make up the work. Once beyond your allotted absences you will receive a zero for any in-class work or labs missed.
+
+[![A picture of two buttons, the first labeled "Overload Relay Trip and the second labeled "Overload Relay & M.G. Set](https://c2.staticflickr.com/8/7179/6824250814_34fcd25d62_o.jpg)](https://flic.kr/p/bp351N)
+
+*["Overload" by Sir Mildred Pierce](https://flic.kr/p/bp351N)*
 
 ## "Information Overload" Days
 
@@ -83,7 +97,11 @@ The rubric below outlines my expectations for device use in this classroom. We c
 
 | **1. Unacceptable** | **2. Below Expectations** | **3. Meets Expectations** | **4. Exceeds Expectations** |
 | --- | --- | ---- | ---- |
-| Use is *inappropriate*. Device is a distraction to others. **Examples**: A student uses their device to play games, view material unrelated to the course, OR hold social conversations. | Use is *distracting* to the student, their colleagues, and/or the instructor. Student frequently checks devices for information unrelated to the class. **Example**: A student takes out their phone to look at text messages several times in one class period. | Device is *not used* except during designed times, or device use is limited to quick checks during times of transition. **Example**: a student receives an important text from a parent, which they check quickly during our transition between group work and full-class discussion, but waits to respond until an appropriate time. | Device *only used* as an efficient academic tool for a direct purpose. Device is not a distraction. but used at appropriate times as an extension of work or learning. **Examples**: A student uses their phone to do research during a research project, or uses their laptop to create a collaborative document for a group project. |   
+| Use is *inappropriate*. Device is a distraction to others. **Examples**: A student uses their device to play games, view material unrelated to the course, OR hold social conversations. | Use is *distracting* to the student, their colleagues, and/or the instructor. Student frequently checks devices for information unrelated to the class. **Example**: A student takes out their phone to look at text messages several times in one class period. | Device is *not used* except during designed times, or device use is limited to quick checks during times of transition. **Example**: a student receives an important text from a parent, which they check quickly during our transition between group work and full-class discussion, but waits to respond until an appropriate time. | Device *only used* as an efficient academic tool for a direct purpose. Device is not a distraction. but used at appropriate times as an extension of work or learning. **Examples**: A student uses their phone to do research during a research project, or uses their laptop to create a collaborative document for a group project.
+
+[![A glitched drawing of the Incredible Hulk](https://c2.staticflickr.com/4/3813/12729448323_6188e2ca98_b.jpg)](https://flic.kr/p/koRKuX)
+
+*["Glitch" by 622](https://flic.kr/p/koRKuX)*
 
 ## Technical Snafus
 

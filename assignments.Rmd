@@ -3,69 +3,88 @@ title: "Assignments"
 output: 
   html_document:
     toc: true
-    toc_depth: 2
+    toc_depth: 3
     toc_float: true
     theme: journal
 ---
 
-# In-class Work and Exercises
+# Assignments Overview
 
-## Assignment Overview:
++ In-class Work: 15%
++ A Domain of Your Own: 5%
++ Blogging: 25%
++ No Digital Day: 10%
++ Lab Reports: 30%
++ Unessays: 25%
+
+# In-class Work and Exercises (15%)
+
+## Assignment Overview
 
 + Includes written reflections, quizzes, and/or group work
-+ Students will sometimes work individually and sometimes with colleagues
++ Students will sometimes work individually and sometimes with classmates
 + Due during most class periods
-
-## Details:
-
-This course relies on active, engaged participation in class activities and discussions. There will be few lectures. You should come to every class having read all of the required texts (or watched the required videos, &c.) and prepared to discuss them with your colleagues. I plan to assess your reading and course engagement through writing exercises, reading quizzes, and group work. Assuming you all seem to be reading with engagement, I will usually ask for in-class writing or group exercises, but I reserve the right to quiz if reading seems to be slipping.
-
-1. In-class writing
-
-    You should be prepared to write in any class session and have appropriate materials (e.g. paper, a table, a laptop) available to you. Not all in-class writing will be collected, but when it is such work will be graded on a five-point scale. I do not expect your responses to in-class writing exercises to reflect the same polish as papers. I do expect your writing exercises to reflect real thought about our course topics and readings. Entries will receive full credit if:
-    
-    + They refer to specific aspects of our assigned reading. The more specific you can be, the better. For instance, if you can quote or paraphrase from a course text to illustrate the point you hope to make, you should do so.
-    + They draw connections between the day’s assigned reading and the broader themes of the course, recent topics of class discussion, or your personal research.
-    + They demonstrate depth of thought about the topics on hand.  
-    + Writing that demonstrates a firm command of the day's reading through summarizing its ideas will receive a 4/5 while writing that *connects ideas across readings* and *ventures creative (or even risky) interpretations* will receive 5/5. Lower marks are reserved for writing that does not demonstrate familiarity with the day's readings, fails to address the prompt, and/or lacks clarity.
-
-2. Individual and Group Work
-
-    In addition to discussion of course texts, our classes will frequently ask you to complete small projects and exercises that will help you apply course concepts, learn new software, and contextualize course materials. For group exercises, I will ask each group member to assume a specific task related to the project; I expect each group member to contribute in significant ways to their team’s effort. The outcome of group work will be various and thus will be assessed in diverse ways.
-
-3. Reading quizzes
-
-    I prefer not to resort to reading quizzes, which test basic comprehension rather than synthesis and analysis. However, if it becomes clear that significant portions of the class are not completing the readings (which will be obvious by the resultant lulls in conversation) then I reserve the right to begin quizzing. Reading quizzes are intended to reward careful reading, not to test your comprehension of obscure facts from our texts. If you read the assigned texts attentively—if you read the assigned texts attentively—you should do well on the quizzes. Each quiz will have six questions; if you correctly answer five of them you will receive full credit, while all six garners extra credit.
-    
-# Build Your Own Website
-
-This assignment adapted (barely) from [the sterling model developed by Brian Croxall](http://www.briancroxall.net/s14dh/assignments/building-your-own-website/).
-
-## Rationale
-
-So: the internet. It’s kind of a thing, and it doesn’t appear to be going away. It is the new media of our historical moment. There are many things that are important about the internet, but most importantly for our class: the Internet is a space where writing happens. A ton of it, actually. For at least this one very important reason, learning how to make use of the internet is important, even for students working in humanities fields, and especially in the context of a writing class. You of course know how to use the internet for finding information, but you will now get some experience creating information: about yourself and your investigation of technology, literature, and new media. I have three primary goals in asking you to build your own website:
-
-1.  Becoming facile with web publication (including managing a domain, deploying content management systems, and using HTML and CSS) is a good first step toward gaining skills you could use in your college career, co-ops, and beyond.
-2.  It provides you a platform to begin doing and sharing that work with others in the academic and professional communities.
-3.  It will enable you to complete [your blogging assignment](http://ryan.cordells.us/su14tlnm/assignments/blogging-assignment/ "III. Blogging Assignment") while building a portfolio of work for use after and outside this class.
 
 ## The Nitty Gritty
 
-*   Purchase a domain from [www.reclaimhosting.com](http://www.reclaimhosting.com) and **send me an email letting me know your domain name**. _Due, 5pm on May 6._
-*   [Install WordPress](http://portal.reclaimhosting.com/knowledgebase.php?action=displayarticle&id=2) on your domain. _Due, 5pm on May 7._
-*   Choose a new theme to install on your site and activate it. _Due, 5pm on May 8._
-*   Install Akismet as a plugin. [Get an API key](http://akismet.com/) and activate it. Email me the API key. _Due, 5pm on May 9._
-*   Post first blog entry for [the blogging assignment](http://ryan.cordells.us/su14tlnm/assignments/blogging-assignment/ "III. Blogging Assignment"). _Due, no later than 5pm on May 13._
-*   Create an “About” page. On that page write a brief paragraph or two about yourself that includes the following information: a brief paragraph that discusses what you’re studying generally in school and what your educational / career goals are. _Due, 5pm on May 14._
-*   Create one other static page about _something_. It could be where you post an assignment you do for class. It could be about a hobby. _Due, 5pm on May 16._
-*   Find one thing that you wish your website could do. Find a [plugin](http://wordpress.org/plugins/) to do it. Install that plugin. Send me an email with the problem and the name of the plugin that fixed it. _Due, 5pm on May 20._
-*   Write a three- to four-page paper in which you reflect on the build-a-website assignment. Once you’ve written that paper, [email it to me](javascript:DeCryptX('csjbo/dspybmmAfnpsz/fev')) as a PDF. And then post it to your blog. This reflection does _not_ count as one of your blog posts for the blogging assignment. _Due, 5pm on May 23._ Some questions to consider are the following:
-    1.  What have I learned by building my own website and managing my own domain?
-    2.  Did completing this assignment help me learn new things about writing and research in the twenty-first century?
-    3.  Has “writing” myself into the world changed how I think about representing myself to others?
-    4.  What would I change about this assignment to make it more relevant, informative, enjoyable, challenging, or interesting?
+This course relies on active, engaged participation in class activities and discussions. There will be few lectures. You should come to every class having read all of the required texts (or watched the required videos, played the required games, &c.) and prepared to discuss them with your colleagues. I plan to assess your reading and course engagement through writing exercises, reading quizzes, and group work. Assuming you all seem to be reading with engagement, I will usually ask for in-class writing or group exercises, but I reserve the right to quiz if reading seems to be slipping.
+
+### In-class writing
+
+You should be prepared to write in any class session and have appropriate materials (e.g. paper, a table, a laptop) available to you. Not all in-class writing will be collected, but when it is such work will be graded on a five-point scale. I do not expect your responses to in-class writing exercises to reflect the same polish as papers. I do expect your writing exercises to reflect real thought about our course topics and readings. Entries will receive full credit if:
     
-# Blogging
++ They refer to specific aspects of our assigned reading. The more specific you can be, the better. For instance, if you can quote or paraphrase from a course text to illustrate the point you hope to make, you should do so.
++ They draw connections between the day’s assigned reading and the broader themes of the course, recent topics of class discussion, or your personal research.
++ They demonstrate depth of thought about the topics on hand.  
++ Writing that demonstrates a firm command of the day's reading through summarizing its ideas will receive a 4/5 while writing that *connects ideas across readings* and *ventures creative (or even risky) interpretations* will receive 5/5. Lower marks are reserved for writing that does not demonstrate familiarity with the day's readings, fails to address the prompt, and/or lacks clarity.
+
+### Individual and Group Work
+
+In addition to discussion of course texts, our classes will frequently ask you to complete small projects and exercises that will help you apply course concepts, learn new software, and/or contextualize course materials. For group exercises, I will ask each group member to assume a specific task related to the project; I expect each group member to contribute in significant ways to their team’s effort. The outcome of group work will be various and thus will be assessed in diverse ways.
+
+### Reading quizzes
+
+I would prefer not to resort to reading quizzes, which test basic comprehension rather than synthesis and analysis. However, if it becomes clear that significant portions of the class are not completing the readings (which will be obvious by the resultant lulls in conversation) then I will turn to quizzes to motivate closer attention to the readings. Reading quizzes are intended to reward careful reading, not to test your recall of obscure facts from our texts. If you read the assigned texts attentively—*if you read the assigned texts attentively*—you should do well on the quizzes. Each quiz will have six questions; if you correctly answer five of them you will receive full credit, while all six garners extra credit.
+    
+[![The ground with the word Internet and an arrow written in chalk](https://c1.staticflickr.com/9/8437/8007866786_7519db2009_c.jpg)](https://flic.kr/p/dcCpNJ)  
+
+*["Internet" by The-Samizdat](https://flic.kr/p/dcCpNJ)*    
+    
+# A Domain of Your Own (5%)
+
+This assignment was adapted (barely) from [the sterling model developed by Brian Croxall](http://www.briancroxall.net/s14dh/assignments/building-your-own-website/).
+
+## Rationale
+
+So: the internet. It’s kind of a thing, and it doesn’t appear to be going away. It is the new media of our historical moment. There are many things that are important about the internet, but most importantly for our class: the internet is a space where writing happens. A ton of it, actually. For at least this one very important reason, learning how to make use of the internet is important for students working in humanities fields, especially in the context of a writing-intensive class. You of course know how to use the internet for finding information, but you will now get some experience creating information: about yourself and your investigation of technology, literature, and new media. I have four primary goals in asking you to build your own website:
+
+1. Becoming facile with web publication (including managing a domain, deploying content management systems, and using HTML and CSS) is a good first step toward gaining skills you could use in your college career, co-ops, and beyond.
+2.  Having your own website provides you a platform to begin doing and sharing that work with others in the academic and professional communities.
+3.  Having your own website will enable you to complete [your blogging assignment for this class while beginning while building a portfolio of work for use after and outside this class.
+4. Finally, I believe it's important to have a voice on the web that's *yours*, not your content you contribute freely to a commercial platform (though those platforms have their place). By the end of the semester you may agree with me about this or disagree, but I would like you to experiment with having a domain of your own, at least for a little while.
+
+## The Nitty Gritty
+
+1. Purchase a domain from [www.reclaimhosting.com](http://www.reclaimhosting.com) and **send me an email letting me know your domain name**. You are not required to use your own name in the domain; there are certainly arguments to be made for anonymity. If you think you might turn this domain into a professional site in the future, however, consider domain names that will convey the right image. *Note: if you already use another host, or if you prefer to start using another one for this assignment, let me know. I won't require you to use Reclaim Hosting to complete this assignment successfully. I strongly recommend Reclaim because they grew from the [Domain of One's Own](https://www.wired.com/insights/2012/07/a-domain-of-ones-own/) iniative from the University of Mary Washington, they support academic users phenomenally, they offer the cheapest hosting and domain service I know for students, and their customer support is phenomenal.*
+2. [Install WordPress](http://portal.reclaimhosting.com/knowledgebase.php?action=displayarticle&id=2) on your domain.
+3. Choose a new theme to [install on your site](https://www.youtube.com/watch?v=AL6K_pYdvfU) and activate it.
+4. Install Akismet [as a plugin](https://www.youtube.com/watch?v=u075nwYCIfQ). [Get an API key](http://akismet.com/) and activate it.
+5. Post first blog entry for the blogging assignment **by Friday, September 15 at 5pm**. Email me your domain, the name of the theme you installed, and, a screenshot of Akismet active on your site by this deadline. 
+6. Create an “About” page. On that page write a brief paragraph or two about yourself that includes the following information: a brief paragraph about yourself. You might discuss what you’re studying (generally) in school and what your educational or career goals are, or you might choose to describe some other aspect of yourself. You do not have to name yourself here, either—personae are allowed. 
+7. Create one other static page about _something_. It could be where you post an assignment you do for class. It could be about a hobby.
+8. Find one thing that you wish your website could do. Find a [plugin](http://wordpress.org/plugins/) to do it. Install that plugin **by Friday, September 28**. Email me with links to your two pages and the name of the plugin you installed. 
+
+To recap, the website is due in two stages: steps 1-5 by Friday, September 15 and steps 6-8 by Friday, September 28. It's important that you complete the first steps as soon as possible because you will use your domain to complete your blogging assignment. 
+
+## An Alternative
+
+Maybe you've built a website before. Maybe Wordpress is old hat for you. There are lots of other ways to build a website. Recently flat HTML platforms [like Jekyll](https://jekyllrb.com/) have been getting lots of buzz: they load quick and don't have all the overhead of a database-driven platform like Wordpress. Once the system is set up they're remarkably easy to use, but the setup is more complicated than WP. If you'd like to challenge yourself in this assignment, consider building a Jekyll site, [perhaps hosted through Github](https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/). If you'd like to go this route, come chat with me and we'll lay out the options and necessities.
+
+[![A keyboard with the word BLOG spelled out on the keys](https://c2.staticflickr.com/6/5103/5779995446_841402239b_z.jpg)](https://flic.kr/p/9NKZgU)  
+
+*["Blogging" by Daryl Lau](https://flic.kr/p/9NKZgU)*
+    
+# Blogging (25%)
 
 ## Rationale 
 
@@ -77,82 +96,73 @@ Throughout the term, we will engage with the ideas of the course through public 
 + Blog posts give you the chance to learn from each other. You'll read your colleague's writing and, hopefully, learn from it or be challenged by it.
 + Public blogging allows us to connect to larger communities outside of our classroom. Who knows? Perhaps the author of an article you blog about will respond directly…
 
-You should not treat blog posts like a secondary assignment. Indeed, I consider your blog post the central assignment of the semester. Instead, _think of your blog posts as an evolving research paper. **They have the same importance and weight and seriousness**_.
+You should not treat blog posts like a secondary assignment. Indeed, I consider your blog post the central assignment of the semester. Instead, *think of your blog posts as an evolving research paper*. They have the same importance and weight and seriousness.
 
 ## The Nitty-Gritty
 
-One important detail you should pull out of Prof. Sample's guidelines: each post must begin from our course readings and demonstrate your further engagement with those readings. In general, then, your blog posts should:
+Each post must begin from our course readings and demonstrate your further engagement with those readings. In general, then, your blog posts should:
 
-1.  There are 6 units in this class and _you are responsible for writing 5 blog posts **and** commenting on 5 of your colleagues' posts_. You may not submit (for credit) more than one blog post per unit, though you're free to write more if you wish. I cannot emphasis more strongly that **you should not wait to start writing posts and commenting**. Let me repeat that: **do not wait until Unit 3 to begin writing your blog assignments**. I assign only 5 posts and 5 comments to give you some flexibility during the already-shortened summer semester; it is up to you to make that flexibility a boon rather than a bane.
-2.  Blog posts are due within two days of a given unit ending. After those two days pass, I will not accept a post for a given unit.
-3.  Each post must be 300-500 words long.
-4.  Each post must _refer specifically to class reading, often through **direct quotation**._
-_*   Your posts should continue and further develop conversations that began in class, demonstrating your evolving understanding of our class themes. I strongly encourage you to read, cite, and link to each other's posts.*   You are encouraged to bring new ideas from your own reading and research—whether for this class or from others—into dialogue with the course through your blog posts._
+1.  There are approximately 14 weeks in our semester and *you are responsible for writing 10 blog posts*. You may not submit (for credit) more than one blog post per week, though you're free to write more if you wish. I cannot emphasis more strongly that **you should not wait to start writing posts**. Let me repeat that: **do not wait until week 3 or 4 to begin writing your blog assignments**. I assign 10 posts to give you some flexibility during the semester. It is up to you to make that flexibility a boon rather than a bane.
+2.  Blog posts for a given week are due by Friday at 5pm. Anything submitted later than this will count toward the next week, and I do not give credit for more than one post submitted per week.
+3.  Each post must be 300-500 words long. This gives you enough space to make some keen observations or ask some pressing questions, but not enough space to write a full paper. Your blog posts should be concise. The point is not to write everything you might in one week, but instead to develop a set of ideas and questions over the course of many weeks. 
+4.  Each post must *refer specifically to class reading*, often through *direct quotation*. Your posts should continue and further develop conversations that began in class, demonstrating your evolving understanding of our class themes. I strongly encourage you to read, cite, and link to each other's posts.
+5. I highly value posts that link our class to the wider world. I encourage you to use your blog posts to bring outside texts into conversation with our class: an article you found interesting or relevant, say, or something you uncovered while doing research. 
 
-So what do I expect in your blog posts? I like this description by my colleague Mark Sample at George Mason University:
+## Commenting on Posts
 
-> There are a number of ways to approach these open-ended posts: consider the reading in relation to its historical or theoretical context; write about an aspect of the day’s reading that you don’t understand, or something that jars you; formulate an insightful question or two about the reading and then attempt to answer your own questions; or respond to another student’s post, building upon it, disagreeing with it, or re-thinking it.
+I cannot comment on every blog post, though I will occasionally interject when something in a post catches our attention. You should interpret such a comment as engagement, not (necessarily) sanction. Conversely, you should not interpret lack of comment as criticism.
 
-As I hope this quote indicates, there are several angles you can take in your blog posts, but they must reflect your thought and engagement about our course readings and class discussions. Your blog posts can also bring outside texts into conversation with our class: an article you found interesting or relevant, say, or something you uncovered while researching for your final project.
+## Grading Blog Posts
 
-### Commenting on Posts
-
-I cannot comment on every blog post, though I or our graduate practicum student will occasionally interject when something in a post catches our attention. You should interpret such a comment as engagement, not (necessarily) sanction; conversely, you should not interpret lack of comment as criticism.
-
-### Grading Blog Posts
-
-Each week I will review and grade blog posts according to the following rubric, adapted by Creative Commons license (CC BY 3.0) from, again, [Mark Sample](http://www.samplereality.com/2009/08/14/pedagogy-and-the-class-blog/).
+Each week I will review and grade blog posts according to the following rubric, adapted by Creative Commons license (CC BY 3.0) from [Mark Sample](http://www.samplereality.com/2009/08/14/pedagogy-and-the-class-blog/).
 
 | _Exceptional._ | _Satisfactory._ | _Underdeveloped._ | _Limited._ | _No Credit._ |
 | --- | --- | ---- | ---- | --- |
 | The blog post is focused and coherently integrates examples with explanations or analysis. The entry demonstrates awareness of its own limitations or implications, and it considers multiple perspectives when appropriate. The entry reflects in-depth engagement with the topic. | The blog post is reasonably focused, and explanations or analysis are mostly based on examples or other evidence. Fewer connections are made between ideas, and though new insights are offered, they are not fully developed. The entry reflects moderate engagement with the topic. | The blog post is mostly description or summary, without consideration of alternative perspectives, and few connections are made between ideas. The entry reflects passing engagement with the topic. | The blog post is unfocused, or simply rehashes previous comments, and displays no evidence of student engagement with the topic. | The blog post is missing or consists of one or two disconnected sentences.|
 
-Comments will be graded on a pass/fail basis.
+[![Amish buggy driving down the road among cars and snow](https://c2.staticflickr.com/8/7705/16841006647_673bbd3488_c.jpg)](https://flic.kr/p/rEbyxz)  
 
-### How to write for the blog
+*["Amish Buggy" by Ted Van Pelt](https://flic.kr/p/rEbyxz)*
 
-Our course website is based on Wordpress. You will create accounts with one of the graduate practicum students on the second day of class. You will receive an email with your login information. If you've never posted in Wordpress before, [visit the Wordpress Codex](http://codex.wordpress.org/Writing_Posts) for instructions. You can also find useful articles here about incorporating other media into posts.
+# No Digital Day (10%)
 
-# No Digital Day
-
-This assignment isn't due until June 11, but it requires a bit of planning and so I wanted it up from the beginning of class. The assignment is lightly adapted from Prof. Amanda Gailey's "No Digital Day" assignment for her ["Being Human in a Digital Age"](http://segonku.unl.edu/beinghuman/) course at the University of Nebraska—Lincoln.
-
-[![cavemen](https://farm6.staticflickr.com/5525/10976351175_9f8721d797_h.jpg)](https://www.flickr.com/photos/akrockefeller/10976351175/sizes/h/)  
-_Hour 8: “The sad thing is, I can’t even picture my iPhone’s face anymore.”_
+This assignment requires a bit of planning and so we will discuss it from beginning of class. The assignment is lightly adapted from Prof. Amanda Gailey's "No Digital Day" assignment for her ["Being Human in a Digital Age"](http://segonku.unl.edu/beinghuman/) course at the University of Nebraska—Lincoln. You must complete this sometime **between the beginning of the semester and Wednesday, November 8**, but you should start planning as soon as possible.
 
 ## Rationale
 
-Human beings have interacted with illuminated screens for a portion of the species’ existence that is so small it’s hard to calculate as a percentage. If humans have existed for 200,00 years, we’ve used screens for about 0.05% of that time. A stricter definition of “human,” requiring symbolic thought, etc., would make the species 50,000 years old, in which case screens have been familiar for about 0.2% of our existence. Should we feel so cognitively dependent on them now? What does your brain do without the distraction and convenience of the screen?
+Human beings have interacted with illuminated screens for a portion of the species’ existence that is so small it’s hard to calculate as a percentage. If humans have existed for 200,000 years, we’ve used screens for about 0.05% of that time. A stricter definition of “human,” requiring symbolic thought, etc., would make the species 50,000 years old, in which case screens have been familiar for about 0.2% of our existence. Should we feel so cognitively dependent on them now? What does your brain do without the distraction and convenience of the screen?
 
-Sometime between May 28 and June 10, you will pick a single 24-hour period—which must include an entire waking day—in which you will dramatically reduce your use of screen-based technology and interactive media, according to guidelines below. This activity is meant to encourage you to think about a few things:
+Sometime between the beginning of the semester and Wednesday, November 8, you will pick a single 24-hour period—which must include an entire waking day—in which you will dramatically reduce your use of screen-based technology and interactive media, according to guidelines below. This activity is meant to encourage you to think about a few things:
 
-+ How cognitively dependent are you on certain technologies?
++ How cognitively dependent are you on screen technologies?
 + How frequently are you tempted to distract yourself with various digital technologies? What triggers prompt you to want to distract yourself? Without familiar devices, what do you do instead? What do you think about or do with your hands?
 + How much do these technologies aid you in your schoolwork?
 + How do you communicate differently with people when these technologies are not available to you?
 + What do you do for entertainment?
 
-Each student may pick from the following choices, depending on how austere you want to be.
+## The Nitty-Gritty
+
+Each student may choose from the following "No Digital" scenarios, depending on how austere you want to be. Since you're doing this anyway, I recommend you go big.
 
 ### Option A: 1992 
 
 Just before the web became widely available. You probably would have had a phone at home, cable TV, and a word processor. If you choose this option, the following are not allowed:
 
-*   Texting
-*   Web browsing
-*   Any use of your phone as something besides a phone—that is, you can dial a number and talk to someone, but that’s it. Realistically, you wouldn’t have carried a phone around with you, but you can do that as long as you only use it as a phone.
-*   GPS
-*   Streaming video
-*   Streaming music, MP3s, etc.
-*   Online video games, even through a console
++ Texting
++ Web browsing
++ Any use of your phone as something besides a phone—that is, you can dial a number and talk to someone, but that’s it. Realistically, you wouldn’t have carried a phone around with you, but you can do that as long as you only use it as a phone.
++ GPS
++ Streaming video
++ Streaming music, MP3s, etc.
++ Online video games, even through a console
 
 ### Option B: 1922
 
 Before most screen-based and communication technologies we use today were developed or in wide use. If you choose this option, the following are not allowed:
 
-*   Any use of phones whatsoever, except for true emergencies (death, injury, natural disaster)
-*   Any use of any web-based technology
-*   Any use of any screen-based devices, television included
++ Any use of phones whatsoever, except for true emergencies (death, injury, natural disaster)
++ Any use of any web-based technology
++ Any use of any screen-based devices, television included
 
 ### A Note on Honesty
 
@@ -160,34 +170,46 @@ Your job is to remain true to the spirit of this assignment. You aren’t expect
 
 This assignment also depends on the honor system. I’m not interested in policing you to make sure you really did this. It’s an exercise in self-awareness and you’re really cheating yourself by cheating on the assignment. If you can’t go 24 hours without a few modern conveniences, is it time to admit your cognitive dependence?
 
-## To Prepare
+## The Process
 
-1.  Think ahead when picking your 24-hour period. If you need to get syllabi or assignments off the web, do it ahead of time. If our class falls during your 24-hour period, make sure to print out any readings or other required online materials before the day begins.
-2.  Consider writing a vacation response for your email and changing your voicemail so that you won’t worry that people are wondering why you haven’t written or called back.
-3.  If there are people in your life who will worry about you if they don’t hear from you, let them know what you’re doing ahead of time.
-4.  Get a watch (or at least scope out working clocks in your environment). Phones in 1992 did not have clocks in them.
-5.  Be aware of how to reach people by phone. You’ll need a phone book or you’ll need to write numbers down ahead of time.
+### To Prepare
 
-## On the Day
+1. Think ahead when picking your 24-hour period. If you need to get syllabi or assignments off the web, do it ahead of time. If our class falls during your 24-hour period, make sure to print out any readings or other required online materials before the day begins.
+2. Consider writing a vacation response for your email and changing your voicemail so that you won’t worry that people are wondering why you haven’t written or called back.
+3. If there are people in your life who will worry about you if they don’t hear from you, let them know what you’re doing ahead of time.
+4. Get a watch (or at least scope out working clocks in your environment). Phones in 1992 did not have clocks in them.
+5. Be aware of how to reach people by phone. You’ll need a phone book or you’ll need to write numbers down ahead of time.
 
-1.  Carry a notebook and pen with you. Whenever you feel tempted to check your email or social media, make a check mark in the book.
-2.  Take notes on your thought process. What triggers you to seek distraction? What do you do instead?
-3.  Take notes on other aspects of the day. In what ways were you inconvenienced? Did this assignment alter the way you interact with people you care about?
+### On the Day
 
-## By TBD
+1. Carry a notebook and pen with you. Whenever you feel tempted to check your email or social media, make a check mark in the book.
+2. Take notes on your thought process. What triggers you to seek distraction? What do you do instead?
+3. Take notes on other aspects of the day. In what ways were you inconvenienced? Did this assignment alter the way you interact with people you care about?
 
-Write a reflection on your No Digital Day. What did you learn about yourself? Would you do this again or for a longer period of time? In a final act of irony, post it to our class blog. (Everyone is required to do this one.)
+### By November 8
 
-# Unessay
+Write a 3-4 page reflection about your No Digital Day. What did you learn about yourself? Would you do this again or for a longer period of time? In a final act of irony, post the reflection to your blog.
 
-## Assignment Overview:
+[![Keyboard keys spelling out "CODE LAB"](https://c1.staticflickr.com/3/2702/4056498208_4800f6cf79_z.jpg)](https://flic.kr/p/7bsBAh)  
+
+*["New sign" by Phil Hagelberg](https://flic.kr/p/7bsBAh)*
+
+# Lab Reports (20%)
+
+Over the course of the semester we will devote 8 class sessions to literature laboratories, in which we will experiment in hands-on ways with the technologies and media we are thinking about as a class. I will write up [a formal assignment for each of these labs](https://rccordell.github.io/f17rwda/labs.html), part of which we will work through together in a given class period and part of which you will complete after class by writing up a formal lab report, which will be posted on your blog by the due date specified on each lab assignment.
+
+*Please note*: Lab reports do not count as blog posts; these are separate assignments, though you will post them both on your blog in order to submit them.
+
+# Unessay (25%)
+
+## Assignment Overview
 
 + Form can vary *widely!!*
 + Students generally work individually, though I am open to collaborative proposals. 
-+ Unessay 1 due Monday, February 20 by 8pm
-+ Unessay 2 due Monday, April 17 by 8pm
++ Unessay 1 due Friday, October 20 by 5pm
++ Unessay 2 due Friday, December 8 by 5pm
 
-## Details: 
+## The Nitty-Gritty 
 
 Twice during the semester you will develop an unessay project.
 
@@ -195,7 +217,7 @@ Twice during the semester you will develop an unessay project.
 2. This is a hands-on course about media and technology: I would be thrilled to see unessays that do rather than simply describe. Consider using your unessay assignment to get your hands dirty (perhaps literally) with one of the mediums we discuss in class.
 3. Take advantage of my advice and help as you develop your unessay ideas. That's what I'm here for!
 
-You may complete your unessays on your own schedule, but it must be turned in by Monday, February 20. I would strongly advise you not to put the assignment off. To motivate you to work earlier, I am happy to review, comment on, and allow revisions for any unessays turned in at least two weeks before the February 20 deadline. Your final unessay will be due by 8pm on Monday April 17. In that case, too, I would be happy to review, comment on, and allow revisions of unessay projects submitted in advance of that final deadline. 
+You may complete your unessays on your own schedule, but they must be turned in by the listed due dates. I would strongly advise you not to put the assignment off. To motivate you to work earlier, we will schedule workshops in advance of each deadline, and I am happy to offer feedback on drafts submitted at least one week in advance of a given deadline. 
 
 I will also show you some stellar examples of unessays in the weeks leading up to the first deadline, and would be happy to show you others during office hours. I have a growing collection of stunning student unessay work that I love revisiting.
 
@@ -215,19 +237,18 @@ One result of this is that the essay form, which should be extremely free and fl
 
 By contrast, the unessay is an assignment that attempts to undo the damage done by this approach to teaching writing. It works by throwing out all the rules you have learned about essay writing in the course of your primary, secondary, and post secondary education and asks you to focus instead solely on your intellectual interests and passions. In an unessay you choose your own topic, present it any way you please, and are evaluated on how compelling and effective you are. Here are the guidelines:
 
-1. You choose your own topic
+1. You choose your own topic. 
 
-    The unessay allows you to write about anything you want provided you are able to associate your topic with the subject matter of the course and unit we are working on. You can take any approach; you can use as few or as many resources as you wish; you can even cite the Wikipedia. The only requirements are that your treatment of the topic be *compelling*: that is to say presented in a way that leaves the reader thinking that you are being accurate, interesting, and as complete and/or convincing as your subject allows.
+The unessay allows you to write about anything you want provided you are able to associate your topic with the subject matter of the course and unit we are working on. You can take any approach; you can use as few or as many resources as you wish; you can even cite the Wikipedia. The only requirements are that your treatment of the topic be *compelling*: that is to say presented in a way that leaves the reader thinking that you are being accurate, interesting, and as complete and/or convincing as your subject allows.
 
-2. You can present it any way you please
+2. You can present it any way you please. 
 
-    There are also no formal requirements. Your unessay can be written in five paragraphs or twenty-six. If you decide you need to cite something, you can do that anyway you want. If you want to use lists, use lists. If you want to write in the first person, write in the first person. If you prefer to present the whole thing as a video, present it as a video. Use slang. Or don’t. Write in sentence fragments if you think that would be effective. In other words, in an unessay you have complete freedom of form: you can use whatever style of writing, presentation, citation, or media you want. What is important is that the format and presentation you do use helps rather than hinders your explanation of the topic.
-    
-    Perhaps most importantly, the unessay allows you to use media deliberately and thoughtfully. You can create a digital unessay, or you can create an analog project. Do you want to think through letterpress using letterpress? This assignment encourages you to do just that. 
+There are also no formal requirements. Your unessay can be written in five paragraphs or twenty-six. If you decide you need to cite something, you can do that anyway you want. If you want to use lists, use lists. If you want to write in the first person, write in the first person. If you prefer to present the whole thing as a video, present it as a video. Use slang. Or don’t. Write in sentence fragments if you think that would be effective. In other words, in an unessay you have complete freedom of form: you can use whatever style of writing, presentation, citation, or media you want. What is important is that the format and presentation you do use helps rather than hinders your explanation of the topic.  
+Perhaps most importantly, the unessay allows you to use media deliberately and thoughtfully. You can create a digital unessay, or you can create an analog project—in fact, many of the most compelling unessays I've seen have been entirely analog.
 
-3. Be evaluated on how compelling and effective you are
+3. You are evaluated on how compelling and effective you are. 
 
-    If unessays can be about anything and there are no restrictions on format and presentation, how are they graded? The main criteria is how well it all fits together. That is to say, how *compelling* and *effective* your work is.
+If unessays can be about anything and there are no restrictions on format and presentation, how are they graded? The main criteria is how well it all fits together. That is to say, how *compelling* and *effective* your work is.
     
 An unessay is compelling when it shows some combination of the following:
     
