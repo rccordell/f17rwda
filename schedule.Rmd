@@ -122,12 +122,12 @@ Read:
 Browse:
 
 + [Resistbot](https://resistbot.io/)
-+ [@burnedyourtweet](https://twitter.com/burnedyourtweet)
-+ [@congressedits](https://twitter.com/congressedits?lang=en)
-+ [@Every3Minutes](https://twitter.com/Every3Minutes)
-+ [@NSA_PRISMbot](https://twitter.com/NSA_PRISMbot)
-+ [@NRA_Tally](https://twitter.com/NRA_Tally)
-+ [@FBIbot](https://twitter.com/FBIbot)
++ @[burnedyourtweet](https://twitter.com/burnedyourtweet)
++ @[congressedits](https://twitter.com/congressedits?lang=en)
++ @[Every3Minutes](https://twitter.com/Every3Minutes)
++ @[NSA_PRISMbot](https://twitter.com/NSA_PRISMbot)
++ @[NRA_Tally](https://twitter.com/NRA_Tally)
++ @[FBIbot](https://twitter.com/FBIbot)
 
 
 ## Wednesday, October 4: Lab #3—Blueprinting a Bot
