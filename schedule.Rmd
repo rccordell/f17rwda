@@ -54,7 +54,7 @@ Read:
 
 -----
 
-## Thursday, September 14: Lab #1—Markup/Markdown 
+## Thursday, September 14: Literature Lab #1—Markup/Markdown 
 
 ## Friday, September 15: First Blog Post on Your Domains DUE!
 
@@ -94,7 +94,7 @@ Read:
 + Kari Kraus, ["Practicing Ada's 'Poetical Science'"](http://www.huffingtonpost.com/entry/practicing-adas-poetical-science_us_58f4e31fe4b048372700da1f)
 + Stephen Ramsay and Geoffrey Rockwell, ["Untitled Number 4: A Brechto-Socratic Dialogue"](http://www.geoffreyrockwell.com/publications/u4.4.pdf)
 
-## Wednesday, September 27: Lab #2—Computing Literature
+## Wednesday, September 27: Literature Lab #2—Literary Computing
 
 ## Thursday, September 28: Programmatic Writing I
 
@@ -130,7 +130,7 @@ Browse:
 + @[FBIbot](https://twitter.com/FBIbot)
 
 
-## Wednesday, October 4: Lab #3—Blueprinting a Bot
+## Wednesday, October 4: Literature Lab #3—Blueprinting a Bot
 
 -----
 
@@ -168,7 +168,7 @@ Read:
 + Giorgia Lupi and Stefanie Posavec, from [*Dear Data*](http://www.dear-data.com/theproject/) (find 3 posts you find compelling and bring them with you to class prepared to talk about why)
 + Gary Wolf, ["The Data-Driven Life"](http://www.nytimes.com/2010/05/02/magazine/02self-measurement-t.html?pagewanted=all&_r=0) 
 
-## Monday, October 16: Lab #4—Dear (My) Data
+## Monday, October 16: Literature Lab #4—Dear (My) Data
 
 -----
 
@@ -217,7 +217,7 @@ Read:
 + Abby Rabinowitz, ["The Meme as Meme"](http://nautil.us/issue/5/fame/the-meme-as-meme)
 + Jim Ridolfo and Dànielle Nicole DeVoss, ["Composing for Recomposition: Rhetorical Velocity and Delivery"](http://kairos.technorhetoric.net/13.2/topoi/ridolfo_devoss/intro.html) (make sure to read each of the sections in the table of contents at the top)
 
-## Wednesday, November 1: Lab #5—Making Memes
+## Wednesday, November 1: Literature Lab #5—Varities of Web Writing
 
 ## Thursday, November 2: What Gorilla? 
 
@@ -246,7 +246,7 @@ Read:
 + Baratunde Thurston, ["#Unplug: Baratunde Thurston Left The Internet For 25 Days, And You Should Too"](http://www.fastcompany.com/3012521/unplug/baratunde-thurston-leaves-the-internet) 
 + Ian Bogost, ["Hyperemployment, or the Exhausting Work of the Technology User"](http://www.theatlantic.com/technology/archive/2013/11/hyperemployment-or-the-exhausting-work-of-the-technology-user/281149/)
 
-## Thursday, November 9: Lab #6—Close Reading
+## Thursday, November 9: Literature Lab #6—Close Reading
 
 ## Monday, November 13: AI
 
@@ -262,7 +262,7 @@ Read:
 
 + Ted Chiang, ["The Lifecycle of Software Objects"](http://subterraneanpress.com/magazine/fall_2010/fiction_the_lifecycle_of_software_objects_by_ted_chiang/) 
 
-## Thursday, November 16: Lab #7—Turing Tests 
+## Thursday, November 16: Literature Lab #7—Turing Tests 
 
 -----
 
@@ -324,6 +324,6 @@ We'll play these in class:
 + Jason Nelson, [*i made this. you play this. we are enemies*](http://www.secrettechnology.com/madethis/enemy6.html)
 + ——, [*Nothing You Have Done Deserves Such Praise*](http://www.secrettechnology.com/nothing/nothing44.html)
 
-## Monday, December 4: Lab #8—Making a Game
+## Monday, December 4: Literature Lab #8—Making Fiction Interactive
 
 ## Wednesday, December 6: Final Presentations
