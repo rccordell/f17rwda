@@ -8,14 +8,20 @@ output:
     theme: journal
 ---
 
+-----
+
 [![An old and open book](https://c1.staticflickr.com/1/295/32004918513_48fc6589d4_c.jpg)](https://thoroughlyreviewed.com)  
 
 *["Reading Book Study Student," by ThoroughlyReviewed](https://thoroughlyreviewed.com)*
 
 *Note: this will be an unusually busy travel semester for me. I've tried to indicate on the schedule when I will be traveling. Not all of these trips will affect class itself. I've tried to minimize cancellations and develop alternative activities for those days I cannot avoid missing. However, traveling might affect my responsiveness to email and so forth. I will strive to answer emails in a timely fashion, but if you do write while I am away from town please allow an extra half day or so before worrying about a lack of response.*
 
+-----
+
 ## Wednesday, September 6: Introductions
 Introduction to the class and to each other
+
+-----
 
 # Keyword 1: Reading
 
@@ -58,6 +64,8 @@ Read:
 
 + Octave Uzanne, [“The End of Books”](https://ebooks.adelaide.edu.au/u/uzanne/octave/end/) (1894)
 + Craig Mod, ["Future Reading"](https://aeon.co/essays/stagnant-and-dull-can-digital-books-ever-replace-print)
+
+-----
 
 # Keyword 2: Writing
 
@@ -124,6 +132,8 @@ Browse:
 
 ## Wednesday, October 4: Lab #3—Blueprinting a Bot
 
+-----
+
 # Interlude: *Ready Player One*
 
 ## Thursday, October 5: RPO I
@@ -133,6 +143,8 @@ Read:
 Ernest Cline, *Ready Player One*, 0000 and Level One
 
 ## Monday, October 9: Holiday—No Class
+
+-----
 
 # Keyword 3: Data
 
@@ -194,6 +206,8 @@ Read:
 
 Ernest Cline, *Ready Player One*
 
+-----
+
 # Keyword 4: Attention
 
 ## Monday, October 30: Internet Famous
@@ -250,6 +264,8 @@ Read:
 
 ## Thursday, November 16: Lab #7—Turing Tests 
 
+-----
+
 # Interlude: *Ready Player One*
 
 ## Monday, November 20: RPO III
@@ -259,6 +275,8 @@ Read:
 Ernest Cline, *Ready Player One*, Level Three
 
 ## Thanksgiving Holiday
+
+-----
 
 # Keyword 5: Play
 

@@ -8,6 +8,8 @@ output:
     theme: journal
 ---
 
+-----
+
 # What's This?
 
 Over the course of the semester we will begin several "literary laboratories" in class, which you will complete following the class in question. I will post the instructions for those lab assignments here. 

@@ -8,7 +8,9 @@ output:
     theme: journal
 ---
 
-# Assignments Overview
+-----
+
+# Grading Overview
 
 + In-class Work: 15%
 + A Domain of Your Own: 5%
@@ -16,6 +18,8 @@ output:
 + No Digital Day: 10%
 + Lab Reports: 30%
 + Unessays: 25%
+
+-----
 
 # In-class Work and Exercises (15%)
 
@@ -46,10 +50,12 @@ In addition to discussion of course texts, our classes will frequently ask you t
 
 I would prefer not to resort to reading quizzes, which test basic comprehension rather than synthesis and analysis. However, if it becomes clear that significant portions of the class are not completing the readings (which will be obvious by the resultant lulls in conversation) then I will turn to quizzes to motivate closer attention to the readings. Reading quizzes are intended to reward careful reading, not to test your recall of obscure facts from our texts. If you read the assigned texts attentively—*if you read the assigned texts attentively*—you should do well on the quizzes. Each quiz will have six questions; if you correctly answer five of them you will receive full credit, while all six garners extra credit.
     
+-----
+
 [![The ground with the word Internet and an arrow written in chalk](https://c1.staticflickr.com/9/8437/8007866786_7519db2009_c.jpg)](https://flic.kr/p/dcCpNJ)  
 
 *["Internet" by The-Samizdat](https://flic.kr/p/dcCpNJ)*    
-    
+
 # A Domain of Your Own (5%)
 
 This assignment was adapted (barely) from [the sterling model developed by Brian Croxall](http://www.briancroxall.net/s14dh/assignments/building-your-own-website/).
@@ -79,6 +85,8 @@ To recap, the website is due in two stages: steps 1-5 by Friday, September 15 an
 ## An Alternative
 
 Maybe you've built a website before. Maybe Wordpress is old hat for you. There are lots of other ways to build a website. Recently flat HTML platforms [like Jekyll](https://jekyllrb.com/) have been getting lots of buzz: they load quick and don't have all the overhead of a database-driven platform like Wordpress. Once the system is set up they're remarkably easy to use, but the setup is more complicated than WP. If you'd like to challenge yourself in this assignment, consider building a Jekyll site, [perhaps hosted through Github](https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/). If you'd like to go this route, come chat with me and we'll lay out the options and necessities.
+
+-----
 
 [![A keyboard with the word BLOG spelled out on the keys](https://c2.staticflickr.com/6/5103/5779995446_841402239b_z.jpg)](https://flic.kr/p/9NKZgU)  
 
@@ -119,6 +127,8 @@ Each week I will review and grade blog posts according to the following rubric, 
 | _Exceptional._ | _Satisfactory._ | _Underdeveloped._ | _Limited._ | _No Credit._ |
 | --- | --- | ---- | ---- | --- |
 | The blog post is focused and coherently integrates examples with explanations or analysis. The entry demonstrates awareness of its own limitations or implications, and it considers multiple perspectives when appropriate. The entry reflects in-depth engagement with the topic. | The blog post is reasonably focused, and explanations or analysis are mostly based on examples or other evidence. Fewer connections are made between ideas, and though new insights are offered, they are not fully developed. The entry reflects moderate engagement with the topic. | The blog post is mostly description or summary, without consideration of alternative perspectives, and few connections are made between ideas. The entry reflects passing engagement with the topic. | The blog post is unfocused, or simply rehashes previous comments, and displays no evidence of student engagement with the topic. | The blog post is missing or consists of one or two disconnected sentences.|
+
+-----
 
 [![Amish buggy driving down the road among cars and snow](https://c2.staticflickr.com/8/7705/16841006647_673bbd3488_c.jpg)](https://flic.kr/p/rEbyxz)  
 
@@ -194,11 +204,15 @@ Write a 3-4 page reflection about your No Digital Day. What did you learn about 
 
 *["New sign" by Phil Hagelberg](https://flic.kr/p/7bsBAh)*
 
+-----
+
 # Lab Reports (20%)
 
 Over the course of the semester we will devote 8 class sessions to literature laboratories, in which we will experiment in hands-on ways with the technologies and media we are thinking about as a class. I will write up [a formal assignment for each of these labs](https://rccordell.github.io/f17rwda/labs.html), part of which we will work through together in a given class period and part of which you will complete after class by writing up a formal lab report, which will be posted on your blog by the due date specified on each lab assignment.
 
 *Please note*: Lab reports do not count as blog posts; these are separate assignments, though you will post them both on your blog in order to submit them.
+
+-----
 
 # Unessay (25%)
 

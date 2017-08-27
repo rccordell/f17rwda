@@ -8,6 +8,8 @@ output:
     theme: journal
 ---
 
+-----
+
 # What's This?
 
 As the semester progresses, this is where you'll find lots of shorter kinds of information I want to share with you, such as interesting links to class-related (but not assigned) reading, viewing, or playing. When we work on in-class exercises I will also post those here.
