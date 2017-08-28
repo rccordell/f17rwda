@@ -18,10 +18,18 @@ Really, all I *want* to write here can be found in Sonya Huber's [Shadow Syllabu
 
 # Required Texts
  
-Most of the texts we will use in this class are freely available online. There are just a few you'll need to buy (depending on what you choose as your second game in our final unit on "Play"). *Ready Player One* can be found at the Northeastern University Bookstore or purchased from any bookstore of your choosing, IRL or online. How you play *Portal* will depend a bit on whether you need to play on your computer, or if you have a console for gaming. It doesn't matter to me where you play it, but find the game as soon as possible. If you have trouble finding it, let me know and I'll help out.
+Most of the texts we will use in this class are freely available online, or in [the course packet](https://github.com/rccordell/f17rwda/blob/master/data/rwda-coursepacket.zip) (I will give you the password for this zip file in class). There are just a few you'll need to buy (depending on what you choose as your second game in our final unit on "Play"). *Ready Player One* can be found at the Northeastern University Bookstore or purchased from any bookstore of your choosing, IRL or online. How you play *Portal* will depend a bit on whether you need to play on your computer, or if you have a console for gaming. It doesn't matter to me where you play it, but find the game as soon as possible. If you have trouble finding it, let me know and I'll help out.
+
+Required:
 
 + Ernest Kline, [*Ready Player One*](https://www.amazon.com/Ready-Player-One-Ernest-Cline/dp/0307887448/)
 + Valve, *Portal*, for Windows or OS X [through Steam](http://store.steampowered.com/app/400/Portal/)
+
+Recommended:
+
++ Giorgia Lupi and Stefanie Posavec, [*Dear Data*](http://www.dear-data.com/)
+
+-----
 
 [![Scene from *Portal*](https://c2.staticflickr.com/4/3306/3476048144_48f8a76855_z.jpg)](https://flic.kr/p/6iaE1y)
 

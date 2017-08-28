@@ -18,6 +18,8 @@ output:
 
 -----
 
+Most of the texts we will use in this class are freely available online, or in [the course packet](https://github.com/rccordell/f17rwda/blob/master/data/rwda-coursepacket.zip) (I will give you the password for this zip file in class). See the [the policies page](http://f17rwda.ryancordell.org/policies.html) for the few texts that must be purchased.
+
 ## Wednesday, September 6: Introductions
 Introduction to the class and to each other
 
