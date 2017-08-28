@@ -58,6 +58,13 @@ I would prefer not to resort to reading quizzes, which test basic comprehension 
 
 # A Domain of Your Own (5%)
 
+## Assignment Overview
+
++ Requires students to secure a domain and server space, install web software, and customize their sites
++ Students will work individually, though they can help each other if they encounter rough patches
++ Due in two stages: steps 1-5 by Friday, September 15 and steps 6-8 by Friday, September 28
++ Must be completed in order to finish many other assignments, particularly the blog
+
 This assignment was adapted (barely) from [the sterling model developed by Brian Croxall](http://www.briancroxall.net/s14dh/assignments/building-your-own-website/).
 
 ## Rationale
@@ -80,8 +87,6 @@ So: the internet. It’s kind of a thing, and it doesn’t appear to be going aw
 7. Create one other static page about _something_. It could be where you post an assignment you do for class. It could be about a hobby.
 8. Find one thing that you wish your website could do. Find a [plugin](http://wordpress.org/plugins/) to do it. Install that plugin **by Friday, September 28**. Email me with links to your two pages and the name of the plugin you installed. 
 
-To recap, the website is due in two stages: steps 1-5 by Friday, September 15 and steps 6-8 by Friday, September 28. It's important that you complete the first steps as soon as possible because you will use your domain to complete your blogging assignment. 
-
 ## An Alternative
 
 Maybe you've built a website before. Maybe Wordpress is old hat for you. There are lots of other ways to build a website. Recently flat HTML platforms [like Jekyll](https://jekyllrb.com/) have been getting lots of buzz: they load quick and don't have all the overhead of a database-driven platform like Wordpress. Once the system is set up they're remarkably easy to use, but the setup is more complicated than WP. If you'd like to challenge yourself in this assignment, consider building a Jekyll site, [perhaps hosted through Github](https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/). If you'd like to go this route, come chat with me and we'll lay out the options and necessities.
@@ -93,6 +98,11 @@ Maybe you've built a website before. Maybe Wordpress is old hat for you. There a
 *["Blogging" by Daryl Lau](https://flic.kr/p/9NKZgU)*
     
 # Blogging (25%)
+
+## Assignment Overview
+
++ Students will work throughout the semester developing ideas in writing
++ 10 weekly posts are due through the semester, each week's by Friday at 5pm
 
 ## Rationale 
 

@@ -2,7 +2,6 @@
 
 # Once you've got everything configured for your own site below, you should be able to run `source('renderSite.R')` in your console to generate updated HTML files and an updated menu. You could probably add some Github code to the very end to build the commit into the script. 
 
-
 #list all the RMD files in your site's directory
 files <- list.files(path = ".", pattern = '*.Rmd', full.names = FALSE)
 
