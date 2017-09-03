@@ -119,6 +119,7 @@ Browse (choose at least 2 you'd like to discuss in detail in class):
 
 Read: 
 
++ Samuel Woolley, Danah Boyd, Meredith Broussard, Made, ["How to Think About Bots"](https://motherboard.vice.com/en_us/article/qkzpdm/how-to-think-about-bots)
 + Mark Sample, ["A Protest Bot is a Bot So Specific You Can't Mistake It for Bullshit"](https://medium.com/@samplereality/a-protest-bot-is-a-bot-so-specific-you-cant-mistake-it-for-bullshit-90fe10b7fbaa)
 
 Browse:
@@ -219,13 +220,14 @@ Read:
 + Abby Rabinowitz, ["The Meme as Meme"](http://nautil.us/issue/5/fame/the-meme-as-meme)
 + Jim Ridolfo and Dànielle Nicole DeVoss, ["Composing for Recomposition: Rhetorical Velocity and Delivery"](http://kairos.technorhetoric.net/13.2/topoi/ridolfo_devoss/intro.html) (make sure to read each of the sections in the table of contents at the top)
 
-## Wednesday, November 1: Literature Lab #5—Varities of Web Writing
-
-## Thursday, November 2: What Gorilla? 
+## Wednesday, November 1: It's Pronounced Gif
 
 Read:
 
-+ Cathy Davidson, from *Now You See It*
++ Kate M. Miltner and Tim Highfield, ["Never Gonna GIF You Up: Analyzing the Cultural Significance of the Animated GIF"](http://journals.sagepub.com/doi/full/10.1177/2056305117725223)
++ Lauren M. Jackson, ["We Need to Talk About Digital Blackface in GIFs"](http://www.teenvogue.com/story/digital-blackface-reaction-gifs)
+
+## Thursday, November 2: Literature Lab #5—Writing for Rhetorical Velocity
 
 ## Monday, November 6: Fake News
 
