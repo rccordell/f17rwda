@@ -96,7 +96,7 @@ Read:
 + Kari Kraus, ["Practicing Ada's 'Poetical Science'"](http://www.huffingtonpost.com/entry/practicing-adas-poetical-science_us_58f4e31fe4b048372700da1f)
 + Stephen Ramsay and Geoffrey Rockwell, ["Untitled Number 4: A Brechto-Socratic Dialogue"](http://www.geoffreyrockwell.com/publications/u4.4.pdf)
 
-## Wednesday, September 27: Literature Lab #2—Literary Computing
+## Wednesday, September 27: Literature Lab #2—Close & Computational Reading
 
 ## Thursday, September 28: Programmatic Writing I
 
@@ -250,7 +250,7 @@ Read:
 + Baratunde Thurston, ["#Unplug: Baratunde Thurston Left The Internet For 25 Days, And You Should Too"](http://www.fastcompany.com/3012521/unplug/baratunde-thurston-leaves-the-internet) 
 + Ian Bogost, ["Hyperemployment, or the Exhausting Work of the Technology User"](http://www.theatlantic.com/technology/archive/2013/11/hyperemployment-or-the-exhausting-work-of-the-technology-user/281149/)
 
-## Thursday, November 9: Literature Lab #6—Close Reading
+## Thursday, November 9: Literature Lab #6—TBD
 
 ## Monday, November 13: AI
 
