@@ -34,9 +34,9 @@ Read:
 + Leah Price, ["You Are What You Read"](http://www.nytimes.com/2007/12/23/books/review/Price-t.html?pagewanted=all&_r=0) 
 + Will Self, ["The Novel is Dead (This Time It's for Real)"](https://www.theguardian.com/books/2014/may/02/will-self-novel-dead-literary-fiction)
 + 19th-Century Commentaries on Novel Reading:  
-  1. ["On Novel Reading"](http://www.merrycoz.org/books/NOVELS01.xhtml), *The Guardian; or Youth's Religious Instructor* (1820)
-  2. ["The Reading of Young Ladies"](http://www.merrycoz.org/books/LADIES.xhtml), *American Magazine of Useful Knowledge* (1836)
-  3. ["Devouring Books"](http://www.merrycoz.org/books/DEVOURNG.xhtml), *The American Annals of Education* (1835)
+    1. ["On Novel Reading"](http://www.merrycoz.org/books/NOVELS01.xhtml), *The Guardian; or Youth's Religious Instructor* (1820)
+    2. ["The Reading of Young Ladies"](http://www.merrycoz.org/books/LADIES.xhtml), *American Magazine of Useful Knowledge* (1836)
+    3. ["Devouring Books"](http://www.merrycoz.org/books/DEVOURNG.xhtml), *The American Annals of Education* (1835)
 
 ## Monday, September 11: Paper or Plastic?
 
@@ -89,11 +89,10 @@ Read:
 
 + Ted Chiang, ["The Truth of Fact, the Truth of Feeling"](https://subterraneanpress.com/magazine/fall_2013/the_truth_of_fact_the_truth_of_feeling_by_ted_chiang)
 
-## Monday, September 25: Poetical Science
+## Monday, September 25: Writing as Programming as Writing
 
 Read:
 
-+ Kari Kraus, ["Practicing Ada's 'Poetical Science'"](http://www.huffingtonpost.com/entry/practicing-adas-poetical-science_us_58f4e31fe4b048372700da1f)
 + Stephen Ramsay and Geoffrey Rockwell, ["Untitled Number 4: A Brechto-Socratic Dialogue"](http://www.geoffreyrockwell.com/publications/u4.4.pdf)
 
 ## Wednesday, September 27: Literature Lab #2—Close & Computational Reading
@@ -104,10 +103,10 @@ Watch:
 
 + Jetson et al, [*Sunspring*](http://video.arstechnica.com/watch/sunspring-sci-fi-short-film) 
 
-Browse (choose at least 2 you'd like to discuss in detail in class):
+Browse (choose at least 1 you'd like to discuss in class and get to know it):
 
 + Helen J. Burgess, ["Love Notes and Intimate Circuits"](http://hyperrhiz.io/hyperrhiz13/missives-of-love/mashbot.html)
-+[Electronic Literature Collection: Bots](http://collection.eliterature.org/3/collection-bots.html)
++ [Electronic Literature Collection: Bots](http://collection.eliterature.org/3/collection-bots.html)
 + Any of the bots mentioned in [this *New Yorker* article](http://www.newyorker.com/tech/elements/the-rise-of-twitter-bots) (there's some overlap from above) 
 + Amaranth Borsuk, Jesper Juul, and Nick Montfort, ["The Deletionist"](http://thedeletionist.com/)
 + Computational Poems by Nick Montfort:
