@@ -32,7 +32,7 @@ Introduction to the class and to each other
 Read:  
   
 + Leah Price, ["You Are What You Read"](http://www.nytimes.com/2007/12/23/books/review/Price-t.html?pagewanted=all&_r=0) 
-+ Will Self, ["The Novel is Dead (This Time It's for Real)"](https://www.theguardian.com/books/2014/may/02/will-self-novel-dead-literary-fiction)
+<!-- + Will Self, ["The Novel is Dead (This Time It's for Real)"](https://www.theguardian.com/books/2014/may/02/will-self-novel-dead-literary-fiction) -->
 + 19th-Century Commentaries on Novel Reading:  
     1. ["On Novel Reading"](http://www.merrycoz.org/books/NOVELS01.xhtml), *The Guardian; or Youth's Religious Instructor* (1820)
     2. ["The Reading of Young Ladies"](http://www.merrycoz.org/books/LADIES.xhtml), *American Magazine of Useful Knowledge* (1836)
@@ -162,15 +162,15 @@ Read:
 
 -----
 
+## Thursday, October 12: Don't Be Evil
 
-## Thursday, October 12: Quantified Selves
+Read:
 
-Read: 
++ Naomi Kritzer, ["Cat Pictures Please"](http://clarkesworldmagazine.com/kritzer_01_15/)
 
-+ Giorgia Lupi and Stefanie Posavec, from [*Dear Data*](http://www.dear-data.com/theproject/) (find 3 posts you find compelling and bring them with you to class prepared to talk about why)
-+ Gary Wolf, ["The Data-Driven Life"](http://www.nytimes.com/2010/05/02/magazine/02self-measurement-t.html?pagewanted=all&_r=0) 
+## Monday, October 16: The Library that is the Universe
 
-## Monday, October 16: Literature Lab #4—Dear (My) Data
++ Jorge Louis Borges, [“The Library of Babel”](http://www.arts.ucsb.edu/faculty/reese/classes/artistsbooks/The%20Library%20of%20Babel.pdf)
 
 -----
 
@@ -178,15 +178,16 @@ Read:
 
 -----
 
-## Wednesday, October 18: TBD
+## Wednesday, October 18: Literature Lab #4a: Wikiverse
 
-## Thursday, October 19: TBD
+## Thursday, October 19: Literature Lab #4b: Wikiverse
 
-## Monday, October 23: Don't Be Evil
+## Monday, October 23: Quantified Selves
 
-Read:
+Read: 
 
-+ Naomi Kritzer, ["Cat Pictures Please"](http://clarkesworldmagazine.com/kritzer_01_15/)
++ Giorgia Lupi and Stefanie Posavec, from [*Dear Data*](http://www.dear-data.com/theproject/) (find 3 posts you find compelling and bring them with you to class prepared to talk about why)
++ Gary Wolf, ["The Data-Driven Life"](http://www.nytimes.com/2010/05/02/magazine/02self-measurement-t.html?pagewanted=all&_r=0)
 
 ## Wednesday, October 25: Data Afterlives 
 
@@ -198,11 +199,13 @@ Watch:
 
 ### Prof. Cordell traveling Oct. 26-29; regular classes
 
+## Thursday, October 26: Literature Lab #5—Dear (My) Data
+
 -----
 
 # Interlude: *Ready Player One*
 
-## Thursday, October 26: RPO II
+## Monday, October 30: RPO II
 
 Read:
 
@@ -212,29 +215,31 @@ Ernest Cline, *Ready Player One*
 
 # Keyword 4: Attention
 
-## Monday, October 30: Internet Famous
+## Wednesday, November 1: Internet Famous
 
 Read:
 
 + Abby Rabinowitz, ["The Meme as Meme"](http://nautil.us/issue/5/fame/the-meme-as-meme)
 + Jim Ridolfo and Dànielle Nicole DeVoss, ["Composing for Recomposition: Rhetorical Velocity and Delivery"](http://kairos.technorhetoric.net/13.2/topoi/ridolfo_devoss/intro.html) (make sure to read each of the sections in the table of contents at the top)
 
-## Wednesday, November 1: It's Pronounced Gif
+## Thursday, November 2: It's Pronounced 'Gif'
 
 Read:
 
 + Kate M. Miltner and Tim Highfield, ["Never Gonna GIF You Up: Analyzing the Cultural Significance of the Animated GIF"](http://journals.sagepub.com/doi/full/10.1177/2056305117725223)
 + Lauren M. Jackson, ["We Need to Talk About Digital Blackface in GIFs"](http://www.teenvogue.com/story/digital-blackface-reaction-gifs)
 
-## Thursday, November 2: Literature Lab #5—Writing for Rhetorical Velocity
-
 ## Monday, November 6: Fake News
+
+Listen:
+
++ 99% Invisible, ["The Age of the Algorithm"](http://99percentinvisible.org/episode/the-age-of-the-algorithm/)
 
 Read:
 
 + Robert Darnton, ["The True History of Fake News"](http://www.nybooks.com/daily/2017/02/13/the-true-history-of-fake-news/)
 + Tom Standage, ["The True History of Fake News"](https://www.1843magazine.com/technology/rewind/the-true-history-of-fake-news)
-+ ["Yellow Journalism: The 'Fake News' of the 19th Century"](https://publicdomainreview.org/collections/yellow-journalism-the-fake-news-of-the-19th-century/)
+<!-- + ["Yellow Journalism: The 'Fake News' of the 19th Century"](https://publicdomainreview.org/collections/yellow-journalism-the-fake-news-of-the-19th-century/) -->
 
 -----
 
@@ -242,14 +247,14 @@ Read:
 
 -----
 
-## Wednesday, November 8: #Unplug
+## Wednesday, November 8: Literature Lab #6—Writing for Rhetorical Velocity
+
+## Thursday, November 9: #Unplug
 
 Read:
 
 + Baratunde Thurston, ["#Unplug: Baratunde Thurston Left The Internet For 25 Days, And You Should Too"](http://www.fastcompany.com/3012521/unplug/baratunde-thurston-leaves-the-internet) 
 + Ian Bogost, ["Hyperemployment, or the Exhausting Work of the Technology User"](http://www.theatlantic.com/technology/archive/2013/11/hyperemployment-or-the-exhausting-work-of-the-technology-user/281149/)
-
-## Thursday, November 9: Literature Lab #6—TBD
 
 ## Monday, November 13: AI
 
