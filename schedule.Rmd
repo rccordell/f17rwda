@@ -102,7 +102,7 @@ Read:
 
 + Ted Chiang, ["The Truth of Fact, the Truth of Feeling"](https://subterraneanpress.com/magazine/fall_2013/the_truth_of_fact_the_truth_of_feeling_by_ted_chiang)
 
-# Thursday, September 28: Writing as Programming as Writing
+## Thursday, September 28: Writing as Programming as Writing
 
 Read:
 
@@ -233,6 +233,7 @@ Read:
 + Ted Chiang, ["The Lifecycle of Software Objects"](http://subterraneanpress.com/magazine/fall_2010/fiction_the_lifecycle_of_software_objects_by_ted_chiang/) 
 
 ----- 
+
 # Interlude: *Ready Player One*
 
 ## Thursday, November 2: RPO II
