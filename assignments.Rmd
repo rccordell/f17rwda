@@ -24,7 +24,7 @@ output:
 
 -----
 
-# In-class Work and Exercises (15%)
+# In-class Work (15%)
 
 ## Assignment Overview
 
@@ -147,11 +147,11 @@ Each week I will review and grade blog posts according to the following rubric, 
 
 ----- 
 
+## No Digital Day (10%)
+
 [![Amish buggy driving down the road among cars and snow](https://c2.staticflickr.com/8/7705/16841006647_673bbd3488_c.jpg)](https://flic.kr/p/rEbyxz)  
 
 *["Amish Buggy" by Ted Van Pelt](https://flic.kr/p/rEbyxz)*
-
-## No Digital Day (10%)
 
 ### Assignment Overview
 
@@ -225,11 +225,11 @@ This assignment also depends on the honor system. I’m not interested in polici
 
 -----
 
+## Essay (10%)
+
 [![A handwritten essay](https://c1.staticflickr.com/3/2551/3815358278_f26775e5fb_z.jpg)  
 
 *["Essay" by Pleuntje](https://flic.kr/p/6P9H6h)*
-
-## Essay (10%)
 
 ### Assignment Overview
 
@@ -250,11 +250,11 @@ We will workshop these papers together in class on Thursday, September 21st. You
 
 -----
 
+## We're All Wikipedians Now
+
 [![A 3D Wikipedia puzzle held in a person's hands](https://c1.staticflickr.com/9/8485/8215726123_c968be36ef_z.jpg)  
 
 *["Wikipedia" by cea +](https://flic.kr/p/dvZK9p)*
-
-## We're All Wikipedians Now
 
 ### Assignment Overview
 
@@ -270,9 +270,9 @@ TBA
 
 -----
 
-[![A gif of Commander Data from Star Trek: The Next Generation](https://media.giphy.com/media/3o7TKSx0g7RqRniGFG/giphy.gif)  
-
 ## Dear (My) Data (10%)
+
+[![A gif of Commander Data from Star Trek: The Next Generation](https://media.giphy.com/media/3o7TKSx0g7RqRniGFG/giphy.gif)  
 
 ### Assignment Overview
 
@@ -284,11 +284,11 @@ TBA
 
 -----
 
+## Unessay (15%)
+
 [![An altered book project](https://c1.staticflickr.com/9/8036/8038688165_6b49967e21_c.jpg)  
 
 *["Buckle Up (Altered Book 2011)" by robfos](https://flic.kr/p/dfmnVP)*
-
-## Unessay (15%)
 
 ### Assignment Overview
 
