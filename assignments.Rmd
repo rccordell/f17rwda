@@ -16,11 +16,11 @@ output:
 + A Domain of Your Own: 5%
 + Blogging: 25%
 + Writing Assignments: 65%
-  + No Digital Day: 10%
-  + Essay: 10%
-  + Wiki: 10%
-  + Dear (My) Data: 10%
-  + Unessay: 15%
+    + No Digital Day: 10%
+    + Essay: 10%
+    + Wiki: 10%
+    + Dear (My) Data: 10%
+    + Unessay: 15%
 
 -----
 
@@ -145,6 +145,8 @@ Each week I will review and grade blog posts according to the following rubric, 
 
 # Writing Assignments (65% total)
 
+----- 
+
 [![Amish buggy driving down the road among cars and snow](https://c2.staticflickr.com/8/7705/16841006647_673bbd3488_c.jpg)](https://flic.kr/p/rEbyxz)  
 
 *["Amish Buggy" by Ted Van Pelt](https://flic.kr/p/rEbyxz)*
@@ -221,6 +223,12 @@ Your job is to remain true to the spirit of this assignment. You aren’t expect
 
 This assignment also depends on the honor system. I’m not interested in policing you to make sure you really did this. It’s an exercise in self-awareness and you’re really cheating yourself by cheating on the assignment. If you can’t go 24 hours without a few modern conveniences, is it time to admit your cognitive dependence?
 
+-----
+
+[![A handwritten essay](https://c1.staticflickr.com/3/2551/3815358278_f26775e5fb_z.jpg)  
+
+*["Essay" by Pleuntje](https://flic.kr/p/6P9H6h)*
+
 ## Essay (10%)
 
 ### Assignment Overview
@@ -240,6 +248,12 @@ We will begin the semester's writing assignments with a typical academic essay o
 
 We will workshop these papers together in class on Thursday, September 21st. Your essays will be due to me by Tuesday, September 26th, and you will have a chance to revise for a better grade after I review your essays.
 
+-----
+
+[![A 3D Wikipedia puzzle held in a person's hands](https://c1.staticflickr.com/9/8485/8215726123_c968be36ef_z.jpg)  
+
+*["Wikipedia" by cea +](https://flic.kr/p/dvZK9p)*
+
 ## We're All Wikipedians Now
 
 ### Assignment Overview
@@ -254,6 +268,10 @@ We will workshop these papers together in class on Thursday, September 21st. You
 
 TBA
 
+-----
+
+[![A gif of Commander Data from Star Trek: The Next Generation](https://media.giphy.com/media/3o7TKSx0g7RqRniGFG/giphy.gif)  
+
 ## Dear (My) Data (10%)
 
 ### Assignment Overview
@@ -264,19 +282,11 @@ TBA
 + Drafts due 
 + Revisions expected
 
-<!-- [![Keyboard keys spelling out "CODE LAB"](https://c1.staticflickr.com/3/2702/4056498208_4800f6cf79_z.jpg)](https://flic.kr/p/7bsBAh)  
-
-*["New sign" by Phil Hagelberg](https://flic.kr/p/7bsBAh)*
-
 -----
 
- # Lab Reports (20%)
+[![An altered book project](https://c1.staticflickr.com/9/8036/8038688165_6b49967e21_c.jpg)  
 
-Over the course of the semester we will devote 8 class sessions to literature laboratories, in which we will experiment in hands-on ways with the technologies and media we are thinking about as a class. I will write up [a formal assignment for each of these labs](https://rccordell.github.io/f17rwda/labs.html), part of which we will work through together in a given class period and part of which you will complete after class by writing up a formal lab report, which will be posted on your blog by the due date specified on each lab assignment.
-
-*Please note*: Lab reports do not count as blog posts; these are separate assignments, though you will post them both on your blog in order to submit them. 
-
------ -->
+*["Buckle Up (Altered Book 2011)" by robfos](https://flic.kr/p/dfmnVP)*
 
 ## Unessay (15%)
 
