@@ -7,8 +7,6 @@ navbar:
       href: assignments.html
     - text: "Description"
       href: index.html
-    - text: "Labs"
-      href: labs.html
     - text: "Policies"
       href: policies.html
     - text: "Schedule"
