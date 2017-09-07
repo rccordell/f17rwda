@@ -15,7 +15,7 @@ output:
 + In-class Work: 15%
 + A Domain of Your Own: 5%
 + Blogging: 25%
-+ Writing Assignments: 65%
++ Writing Assignments: 55%
     + No Digital Day: 10%
     + Essay: 10%
     + Wiki: 10%
