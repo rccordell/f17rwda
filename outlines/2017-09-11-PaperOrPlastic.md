@@ -24,3 +24,18 @@ Opening group exercise from "Massively Open": "Does it matter that if you wanted
 + Need to stay engaged; not skim and treat lightly as is described in the *Scientific American* article from today's reading
 + Active annotation is one strategy for deep, engaged online reading
 
+
+
+In-class: questions
+
+Mason: 5
+Cate: 5
+Destinee: 5
+Christina: 5 
+David: 5
+Zachary: 5
+Vansh: 5
+Marisa: 5 
+
+
+
