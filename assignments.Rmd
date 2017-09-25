@@ -143,7 +143,7 @@ Each week I will review and grade blog posts according to the following rubric, 
 
 -----
 
-# Writing Assignments (65% total)
+# Writing Assignments (55% total)
 
 ----- 
 
@@ -260,7 +260,7 @@ If you are struggling to come up with a topic or craft an argument, please come 
 
 -----
 
-## We're All Wikipedians Now
+## We're All Wikipedians Now (10%)
 
 [![A 3D Wikipedia puzzle held in a person's hands](https://c1.staticflickr.com/9/8485/8215726123_c968be36ef_z.jpg)  
 
