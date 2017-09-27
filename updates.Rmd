@@ -10,6 +10,15 @@ output:
 
 -----
 
+# In-class Writing Prompt: 09-27
+## ["The Truth of Fact, the Truth of Feeling"](https://subterraneanpress.com/magazine/fall_2013/the_truth_of_fact_the_truth_of_feeling_by_ted_chiang) by Ted Chiang
+
+What is a memory? Increasingly, scientists are learning that memories are physically encoded in the brain. Scientists have even found ways to [suppress the formation of memories or selectively erase them](http://www.radiolab.org/story/91570-eternal-sunshine-of-the-spotless-rat/). Some of the best evidence, in fact, suggests that memories are reformed in the brain each time they are recalled, and that in fact the more often we recall something, [the less accurate that memory becomes](https://news.northwestern.edu/stories/2012/09/your-memory-is-like-the-telephone-game). Each time we remember something, we remember not the original event but instead our previous recollection of it, including all of the new ideas, connections, emotions, and other new contexts we've since associated with that memory. If you recall a moment with a dear childhood friend with whom you've since had a falling out, that memory will be tinged with anger, or sadness, or regret, and that tinge will echo through all future recollections of that moment, subtly reshaping it over time. 
+
+Given all that, would you sign up for Remem if it were available? Why or why not?
+
+-----
+
 # In-class Writing Prompt: 09-18
 
 Choose one of the following quotes about *17776*, one more about the form of the story and the other is more about its content. Either way, use your chosen quote to reflect on the story. You can take any path you'd like, but use specific examples if at all possible. 
