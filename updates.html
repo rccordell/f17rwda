@@ -309,6 +309,86 @@ div.tocify {
 
 
 <hr />
+<div id="in-class-exercise-09-28" class="section level1">
+<h1>In-class Exercise: 09-28</h1>
+<div id="deciphering-a-program" class="section level2">
+<h2>Deciphering a Program</h2>
+<p>Below you’ll find a snippet of some code that we work with in my <a href="http://s17tot.ryancordell.org/">Technologies of Text</a> class. Today I just want to look at the code together and work to decipher it. You’ll be in groups and I want you to try and answer, to the best of your ability:</p>
+<ol style="list-style-type: decimal">
+<li>From what point does the code begin? In other words, what’s its source data?</li>
+<li>What does this code <em>do</em>? When it’s run, what is the final product?</li>
+<li>How does the code get from its source data to that final product? Which of the intervening steps can you separate out and understand?</li>
+<li>This last step is more abstract, but how are the operations of this code <em>similar</em> to writing, and how are they <em>distinct</em>?</li>
+</ol>
+</div>
+</div>
+<div id="mystery-code" class="section level1">
+<h1>Mystery Code</h1>
+<pre class="r"><code>my_wordnik_key &lt;- &quot;YOUR_API_KEY_GOES_HERE&quot;
+
+# the line below will set the 'default' part of
+# speech for your calls to Wordnik, but you will be
+# able to override this setting in later code.
+wordnik_pos = &quot;adjective&quot;
+
+# 
+random_word &lt;- function(key = my_wordnik_key, pos = wordnik_pos, 
+    min_count = 100, n = 1, min_length = 5, max_length = 10) {
+    
+    param &lt;- paste0(&quot;words.json/randomWords?hasDictionaryDef=true&quot;, 
+        &quot;&amp;minCorpusCount=&quot;, min_count, &quot;&amp;minLength=&quot;, 
+        min_length, &quot;&amp;maxLength=&quot;, max_length, &quot;&amp;limit=&quot;, 
+        n, &quot;&amp;includePartOfSpeech=&quot;, pos)
+    
+    raw = birdnik:::query(key = key, params = param)
+    do.call(rbind, lapply(raw, as.data.frame))
+    
+}
+
+random_word(pos = &quot;verb&quot;, n = 5, min_count = 1000)
+random_word(pos = &quot;interjection&quot;, n = 10, min_count = 100)
+
+poem_word &lt;- function(x) {
+    random_word(pos = x, n = 1, min_count = 1000)[, 
+        2] %&gt;% as.character()
+}
+
+poem_word(&quot;interjection&quot;)
+
+poem &lt;- paste(c(poem_word(&quot;verb&quot;), &quot; thy &quot;, poem_word(&quot;noun&quot;), 
+    &quot; from &quot;, poem_word(&quot;preposition&quot;), &quot; my &quot;, poem_word(&quot;noun&quot;), 
+    &quot;, and &quot;, poem_word(&quot;verb&quot;), &quot; thy &quot;, poem_word(&quot;noun&quot;), 
+    &quot; from &quot;, poem_word(&quot;preposition&quot;), &quot; my &quot;, poem_word(&quot;noun&quot;), 
+    &quot;! \nQuoth the Ravbot, '&quot;, poem_word(&quot;interjection&quot;), 
+    &quot;!'&quot;), collapse = &quot;&quot;)
+
+cat(poem)
+
+setup_twitter_oauth(&quot;YOUR_CONSUMER_KEY_GOES_HERE&quot;, 
+    &quot;YOUR_CONSUMER_SECRET_GOES_HERE&quot;, &quot;YOUR_ACCESS_TOKEN_GOES_HERE&quot;, 
+    &quot;YOUR_ACCESS_SECRET_GOES_HERE&quot;)
+
+woeid &lt;- &quot;2367105&quot;
+
+trend &lt;- getTrends(woeid)[, 1] %&gt;% as_data_frame() %&gt;% 
+    rename(trend = value) %&gt;% filter(grepl(&quot;^#&quot;, trend))
+
+poem &lt;- paste(c(poem_word(&quot;verb&quot;), &quot; thy &quot;, poem_word(&quot;noun&quot;), 
+    &quot; from &quot;, poem_word(&quot;preposition&quot;), &quot; my &quot;, poem_word(&quot;noun&quot;), 
+    &quot;, and &quot;, poem_word(&quot;verb&quot;), &quot; thy &quot;, poem_word(&quot;noun&quot;), 
+    &quot; from &quot;, poem_word(&quot;preposition&quot;), &quot; my &quot;, poem_word(&quot;noun&quot;), 
+    &quot;!\&quot; \nQuoth the Ravbot, \&quot;Never &quot;, trend %&gt;% sample_n(1), 
+    &quot;!'&quot;), collapse = &quot;&quot;)
+
+cat(poem)
+
+if (nchar(poem) &lt; 140) {
+    tweet(poem)
+} else {
+    print(&quot;The poem is too long. Please rerun the generator and try again!&quot;)
+}</code></pre>
+<hr />
+</div>
 <div id="in-class-writing-prompt-09-27" class="section level1">
 <h1>In-class Writing Prompt: 09-27</h1>
 <div id="the-truth-of-fact-the-truth-of-feeling-by-ted-chiang" class="section level2">
