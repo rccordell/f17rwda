@@ -10,6 +10,14 @@ output:
 
 -----
 
+# In-class Exercise: 10-04 and 10-05
+
+
+
+
+
+-----
+
 # In-class Exercise: 09-28
 
 ## Deciphering a Program
