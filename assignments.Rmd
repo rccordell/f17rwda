@@ -276,7 +276,12 @@ If you are struggling to come up with a topic or craft an argument, please come 
 
 ### The Nitty-Gritty
 
-TBA
+In this assignment you will work either individually or in pairs to create a new [Wikipedia stub](https://en.wikipedia.org/wiki/Wikipedia:Stub) or improve a stub into a start-class article. 
+
+We will be working with Amanda Rust (Digital Humanities Librarian) and Brooke Williams (Research and Instruction Librarian) from the Snell Library to learn what those categories mean, and how you can write an artilce that meets these expectations. On October 18-19, both Amanda and Brooke will be leading class, helping you research and begin drafting your articles.
+
+You will submit a link to your final article by Friday, October 27. If you are improving an existing article, you should also include a link to the article's state immediately before you began your work.
+
 
 -----
 
