@@ -276,7 +276,7 @@ If you are struggling to come up with a topic or craft an argument, please come 
 
 ### The Nitty-Gritty
 
-In this assignment you will work either individually or in pairs to create a new Wikipedia article or upgrade a [Wikipedia stub](https://en.wikipedia.org/wiki/Wikipedia:Stub). Your article should at least reach start class (though B is a good reach goal). You should use the [WikiProject Assessment guidelines](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_assessment) to shape your process. You could use the page for the [Boston Society of Vulcans](https://en.wikipedia.org/wiki/Boston_Society_of_Vulcans) as a model for what you should write to fulfil the assignment.
+In this assignment you will work either individually or in pairs to create a new Wikipedia article or upgrade a [Wikipedia stub](https://en.wikipedia.org/wiki/Wikipedia:Stub). Your article should at least reach start class (though B is a good reach goal). You should use the [WikiProject Assessment guidelines](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_assessment) to shape your process and you can refer to Wikipedia's [training page for students](https://en.wikipedia.org/wiki/Wikipedia:Training/For_students). You could use the page for the [Boston Society of Vulcans](https://en.wikipedia.org/wiki/Boston_Society_of_Vulcans) as a model for what you should write to fulfil the assignment.
 
 We will be working with Amanda Rust (Digital Humanities Librarian) and Brooke Williams (Research and Instruction Librarian) from the Snell Library to learn what those categories mean, and how you can write an artilce that meets these expectations. On October 18-19, both Amanda and Brooke will be leading class, helping you research and begin drafting your articles.
 
