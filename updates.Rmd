@@ -10,6 +10,24 @@ output:
 
 -----
 
+# In-class Exercise: 10-16
+
+Last year, as voters in the UK were debating whether to vote to leave the European Union, the following post appeared on the Facebook page of Tom Bradbury:
+
+![Facebook post about Woman in Wales](http://ichef.bbci.co.uk/news/976/cpsprodpb/138FC/production/_90042108_tombradbury.jpg)
+
+The post quickly began to go viral, and was (as of 15 October 2017) eventually shared 25,000 times, and reported around the media, from the *Times* of London to [the BBC](http://www.bbc.co.uk/newsbeat/article/36580448/welsh-woman-on-bus-shuts-down-racist-who-told-muslim-passenger-to-speak-english). I don't remember whether I first saw it on Twitter or Facebook, but certainly many, many people in my social media spheres shared, commented on, or chuckled over this story of a racist getting his comeuppance. The story was indeed *the most perfect thing*, particularly for people convinced that the Brexit vote was largely a reflection of racism or xenophobia.
+
+The only problem? There was absolutely no evidence this story happened, and [pretty good evidence suggesting it likely didn't](https://www.newstatesman.com/politics/uk/2016/06/what-story-niqab-wearing-welsh-speaker-tells-us-about-what-we-want-hear). Soon after the story suffused the internet, (some) people began to realize it was remarkably similar to another vignette that had circulated through social media in 2014 or so, featuring an American man and a Navajo woman.
+
+![post about woman speaking Navajo](https://i.imgur.com/zSYQjWy.jpg). 
+
+However, these cautions about Bradbury's story circulated far less extensively than the original post. Later in 2016, the *New York Times* found something similar about [a fake story that had circulated about paid protesters bused to a Trump event](https://www.nytimes.com/2016/11/20/business/media/how-fake-news-spreads.html?_r=0). The original poster realized the error of his claims and tried to retract them, but his retractions circulated far less extensively than his original inflammatory post. 
+
+As our readings showed, "fake news" isn't a phenomenon new to the 21st century, but the operations of online platforms may exacerbate problems inherent to human discernment. What qualities do stories like these share with the memes and gifs we discussed last week? Why are we so susceptible to stories like these, and how do our own biases relate to the media through which we find information? And of course there's the big question: what can be done about fake news?
+
+-----
+
 # In-class Exercise: 10-04 and 10-05
 
 ## Designing a Bot
