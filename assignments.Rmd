@@ -310,7 +310,7 @@ This project will require you to make a number of important decisions at each st
 
 ### Planning Workshop
 
-On November 6 we will use our class time to craft detailed plans for 1. the data you plan to collect, 2. the variables you will record, and 3. the method you'll use to collect it. This plan should be submitted with you assignment.
+On November 6 we will use our class time to craft detailed plans for 1. the data you plan to collect, 2. the variables you will record, and 3. the method you'll use to collect it. This plan should be submitted with your assignment.
 
 -----
 
