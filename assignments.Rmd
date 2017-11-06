@@ -308,6 +308,10 @@ This project will require you to make a number of important decisions at each st
 3. Once you have recorded your data, you will need to decide how to represent it visually. You might do this analog, following the model of Lupi and Posavec, or you might use a digital platform. Either way, however, I would *strongly encourage* you to avoid out-of-the-box visualizations, such as the graphs in Excel. If you are engaged actively with the questions above, your data will likely be too individual and nuanced for such solutions. How can you convey the unique contours of your data in ways that are revealing for you and your readers? Can you balance clarity and complexity in your visual design, using the affordances of visual media to make your data more, rather than less, legible? Does your visualization do interpretive as well as aesthetic work?
 4. Finally, you will write up what you learned about yourself and your data in a 4-5 page analysis, which can be presented as a typical paper or published digitally. This piece should include your visualization(s), and potentially draft versions that you abandoned as well. You should use this written piece to reflect on how your data did (or did not) illuminate the aspect of your life you sought to better understand. You should analyze the choices you made throughout the process and consider how those choices served (or failed to serve) the interpretive ends you hoped they would meet. Finally, you should use this piece to consider how you might rethink your choices in a hypothetical future iteration of this project. 
 
+### Planning Workshop
+
+On November 6 we will use our class time to craft detailed plans for 1. the data you plan to collect, 2. the variables you will record, and 3. the method you'll use to collect it. This plan should be submitted with you assignment.
+
 -----
 
 ## Unessay (15%)
