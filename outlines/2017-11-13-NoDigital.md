@@ -1,0 +1,11 @@
+## Opening Prompt
+
+Consider these excerpts from [Henry David Thoreau's *Walden*](https://www.gutenberg.org/files/205/205-h/205-h.htm):
+
+> the cost of a thing is the amount of what I will call life which is required to be exchanged for it, immediately or in the long run...
+>
+> As with our colleges, so with a hundred "modern improvements"; there is an illusion about them; there is not always a positive advance. The devil goes on exacting compound interest to the last for his early share and numerous succeeding investments in them. Our inventions are wont to be pretty toys, which distract our attention from serious things. They are but improved means to an unimproved end, an end which it was already but too easy to arrive at; as railroads lead to Boston or New York. We are in great haste to construct a magnetic telegraph from Maine to Texas; but Maine and Texas, it may be, have nothing important to communicate...
+> 
+> One says to me, "I wonder that you do not lay up money; you love to travel; you might take the cars and go to Fitchburg today and see the country." But I am wiser than that. I have learned that the swiftest traveller is he that goes afoot. I say to my friend, Suppose we try who will get there first. The distance is thirty miles; the fare ninety cents. That is almost a day's wages. I remember when wages were sixty cents a day for laborers on this very road. Well, I start now on foot, and get there before night; I have travelled at that rate by the week together. You will in the meanwhile have earned your fare, and arrive there some time tomorrow, or possibly this evening, if you are lucky enough to get a job in season. Instead of going to Fitchburg, you will be working here the greater part of the day. And so, if the railroad reached round the world, I think that I should keep ahead of you; and as for seeing the country and getting experience of that kind, I should have to cut your acquaintance altogether.
+
+How might we put these ideas together with those of Thurston and Bogost from our reading today? Are Thoreau's ideas about the telegraph and the railroad—two technologies dramatically reshaping communication and even notions of time in the mid nineteenth century—conversant with Thurston's and Bogost's ideas about the internet and social media today? How so or how not?
