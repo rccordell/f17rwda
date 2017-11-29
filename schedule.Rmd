@@ -320,7 +320,7 @@ We'll play (some of) these in class:
 + Jordan Magnuson and Kevin MacLeod, [*Loneliness*](http://www.necessarygames.com/my-games/loneliness/flash)
 + Anna Anthropy, [*Queers in Love at the End of the World*](http://auntiepixelante.com/endoftheworld/)
 + Porpentine, [*Howling Dogs*](http://aliendovecote.com/uploads/twine/howlingdogs/howlingdogs.html#2o)
-——, [*With Those We Love Alive*](http://slimedaughter.com/games/twine/wtwla/)
++ ——, [*With Those We Love Alive*](http://slimedaughter.com/games/twine/wtwla/)
 + McKinney, [*Spent*](http://playspent.org/html/)
 + Financial Times, [*The Uber Game*](https://ig.ft.com/uber-game/)
 + Zoe Quinn, Patrick Lindsey, and Isaac Schankler, [*Depression Quest*](http://www.depressionquest.com/dqfinal.html)
