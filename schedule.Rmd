@@ -305,22 +305,7 @@ Read:
 
 + Michael Burden and Sean Gouglas, ["The Algorithmic Experience: Portal As Art"](http://gamestudies.org/1202/articles/the_algorithmic_experience)
 
-## Wednesday, November 29: Choose Your Own Adventure
-
-Choose one of the following to play. You need to get far enough into the game that you can talk about it in detail during class, so start well in advance of this session:
-
-+ [*Braid*](http://braid-game.com/)
-+ [*A Dark Room*](http://adarkroom.doublespeakgames.com/) (the app provides a fuller narrative)
-+ [*Gone Home*](http://thefullbrightcompany.com/gonehome/)
-+ [*Papers, Please*](http://papersplea.se/)
-+ [*Passage*](http://hcsoftware.sourceforge.net/passage/)
-+ [*Save the Date*](http://paperdino.com/save-the-date/)
-+ [*The Stanley Parable*](http://www.stanleyparable.com/)
-+ [*The Walking Dead*](http://www.telltalegames.com/walkingdead/season1/)
-+ [*Thomas Was Alone*](http://www.mikebithellgames.com/thomaswasalone/)
-+ [*To the Moon*](http://freebirdgames.com/to_the_moon/)
-
-## Thursday, November 30: Arcade
+## Wednesday, November 29: Arcade
 
 Read: 
 
@@ -338,6 +323,26 @@ We'll play these in class:
 + Jason Nelson, [*i made this. you play this. we are enemies*](http://www.secrettechnology.com/madethis/enemy6.html)
 + ——, [*Nothing You Have Done Deserves Such Praise*](http://www.secrettechnology.com/nothing/nothing44.html)
 
+## Thursday, November 30: Choose Your Own Adventure
+
+Choose one of the following to play. You need to get far enough into the game that you can talk about it in detail during class, so start well in advance of this session:
+
++ [*Braid*](http://braid-game.com/)
++ [*A Dark Room*](http://adarkroom.doublespeakgames.com/) (the app provides a fuller narrative)
++ [*Gone Home*](http://thefullbrightcompany.com/gonehome/)
++ [*Papers, Please*](http://papersplea.se/)
++ [*Passage*](http://hcsoftware.sourceforge.net/passage/)
++ [*Save the Date*](http://paperdino.com/save-the-date/)
++ [*The Stanley Parable*](http://www.stanleyparable.com/)
++ [*The Walking Dead*](http://www.telltalegames.com/walkingdead/season1/)
++ [*Thomas Was Alone*](http://www.mikebithellgames.com/thomaswasalone/)
++ [*To the Moon*](http://freebirdgames.com/to_the_moon/)
+
+
 ## Monday, December 4: Unessay workshop
 
-## Wednesday, December 6: TBD
+## Wednesday, December 6: Wikipedia Revisions DUE
+
+## Monday, December 11: Dear (My) Data Revisions DUE
+
+## Thursday, December 14: Unessay Projects DUE
