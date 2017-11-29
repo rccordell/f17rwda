@@ -312,17 +312,20 @@ Read:
 + Janine Fron, Tracy Fullerton, Jacquelyn Ford Morie, and Celia Pearce, ["The Hegemony of Play"](http://homes.lmc.gatech.edu/~cpearce3/PearcePubs/HegemonyOfPlayFINAL.pdf)
 + Elizabeth Losh, ["#GamerGate 101"](http://virtualpolitik.blogspot.com/2014/10/gamergate-101.html)
 
-We'll play these in class:
+We'll play (some of) these in class:
 
 + merritt k, [*Lim*](https://a-dire-fawn.itch.io/lim)
 + Molleindustria, [*Unmanned*](http://unmanned.molleindustria.org/)
-+ Porpentine Charity Heartscape, [*With Those We Love Alive*](http://slimedaughter.com/games/twine/wtwla/)
++ GOP Arcade, [*Thoughts and Prayers*](https://www.thoughtsandprayersthegame.com/)
 + Jordan Magnuson and Kevin MacLeod, [*Loneliness*](http://www.necessarygames.com/my-games/loneliness/flash)
++ Anna Anthropy, [*Queers in Love at the End of the World*](http://auntiepixelante.com/endoftheworld/)
++ Porpentine, [*Howling Dogs*](http://aliendovecote.com/uploads/twine/howlingdogs/howlingdogs.html#2o)
+——, [*With Those We Love Alive*](http://slimedaughter.com/games/twine/wtwla/)
 + McKinney, [*Spent*](http://playspent.org/html/)
 + Financial Times, [*The Uber Game*](https://ig.ft.com/uber-game/)
-+ GOP Arcade, [*Thoughts and Prayers*](https://www.thoughtsandprayersthegame.com/)
++ Zoe Quinn, Patrick Lindsey, and Isaac Schankler, [*Depression Quest*](http://www.depressionquest.com/dqfinal.html)
++ Star C. Foster and Daniel Ravipinto, [*Slouching toward Bedlam*](http://www.peccable.com/if/slouching-10/src/play.html)
 + Jason Nelson, [*i made this. you play this. we are enemies*](http://www.secrettechnology.com/madethis/enemy6.html)
-+ ——, [*Nothing You Have Done Deserves Such Praise*](http://www.secrettechnology.com/nothing/nothing44.html)
 
 ## Thursday, November 30: Choose Your Own Adventure
 
